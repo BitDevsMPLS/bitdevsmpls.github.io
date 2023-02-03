@@ -1,9 +1,6 @@
-title: 'BitDevs NYC'
+title: 'BitDevs MPLS'
 tagline: 'BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.'
 
 menu:
   - {name: 'About', url: '/about'}
   - {name: 'Events', url: '/events'}
-  - {name: 'Blog', url: '/blog'}
-  - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}
-  - {name: 'Cities', url: '/cities'}
