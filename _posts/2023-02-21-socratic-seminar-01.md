@@ -38,10 +38,24 @@ This is not intended to be a presentation with the hosts simply presenting the c
 
 
 ## Bitcoin
-[Optech](https://bitcoinops.org/en/newsletters/2023/02/01/)
-[Serverless Payjoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021364.html)
+- [At least 17% of Bitcoin Core 24.x listening nodes are running full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021296.html)
+- [Full RBF and DOS Attack on Multiparty Protocols](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021322.html)
+- [Serverless Payjoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021364.html)
+- [Interactive Transaction with PSBT](https://chaincase.app/words/interactive-transactions-psbt)
+- [OP_VAULT](https://jameso.be/vaults.pdf)
+
+# Ordinals
+ - [Ordinals](https://ordinals.com/)
+ - [Size Limit Restriction](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021370.html)
+ - [Andrew Poelstra Response](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021372.html)
 
 ## Lightning
-[LN Async Proof of Payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003831.html)
+- [LN Async Proof of Payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003831.html)
+- [Channel Jamming Attacks](https://bitcoinops.org/en/topics/channel-jamming-attacks/)
+- [Channel Jamming Mitigation Proposal](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003834.html)
+
+## Misc
+- [Paid Nostr Relay](https://andreneves.xyz/p/how-to-setup-a-paid-nostr-relay)
+- [Send Transactions when conditions are met](https://psbt.io/)
 
 ## Lightning Gumball Demo
