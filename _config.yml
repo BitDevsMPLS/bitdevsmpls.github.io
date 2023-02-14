@@ -17,3 +17,4 @@ exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
 
 future: true
 
+include: [".well-known"]
