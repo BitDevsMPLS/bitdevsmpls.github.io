@@ -52,6 +52,7 @@ This is not intended to be a presentation with the hosts simply presenting the c
 
 ## Lightning
 - [LN Async Proof of Payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003831.html)
+- [Proof of Payment Optech](https://bitcoinops.org/en/newsletters/2023/02/01/#ln-async-proof-of-payment)
 - [Channel Jamming Attacks](https://bitcoinops.org/en/topics/channel-jamming-attacks/)
 - [Channel Jamming Mitigation Proposal](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003834.html)
 
