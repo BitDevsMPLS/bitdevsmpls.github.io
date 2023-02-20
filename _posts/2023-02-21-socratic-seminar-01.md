@@ -11,7 +11,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 # Details
  - Where: [Ostra Cybersecurity](https://www.google.com/maps/place/Ostra+Cybersecurity+Inc./@44.8933576,-93.4485011,17z/data=!3m1!4b1!4m5!3m4!1s0x52b34b93ae094403:0xef55f345c4ca790!8m2!3d44.8933538!4d-93.4463124)
- - When: February 21st. Socratic Seminar from 6:30pm - 830pm. 
+ - When: February 21st. Socratic Seminar from 6:30pm - 8:30pm. 
  - Happy Hour afterwards at [Scoreboard Bar and Grill](https://goo.gl/maps/PfpHh6rhWJcNYERr5) at 8:30pm. 
 
 # Why?
