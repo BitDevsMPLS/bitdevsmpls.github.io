@@ -27,14 +27,14 @@ This is not intended to be a presentation with the hosts simply presenting the c
 
 # Helpful Links
  - [Twitter](https://twitter.com/BitcoinersMPLS)
- - [Webiste](https://bitdevsmpls.github.io)
+ - [Website](https://bitdevsmpls.github.io)
  - Telegram - Will add upon request (reduces spam)
 
 # Agenda
  - Introductions
  - Socratic Seminar Questions
  - Discussion
- - Beers at [Boom Island](https://www.google.com/maps/place/Boom+Island+Brewing+Company+and+Taproom/@44.8942497,-93.4487907,17z/data=!3m1!4b1!4m5!3m4!1s0x52b33268e06156c3:0x250472a13071d51!8m2!3d44.8942457!4d-93.4466017) (~8:30pm)
+ - Beers at [Scoreboard Bar and Grill](https://goo.gl/maps/PfpHh6rhWJcNYERr5) (~8:30pm)
 
 
 ## Bitcoin
@@ -47,6 +47,8 @@ This is not intended to be a presentation with the hosts simply presenting the c
  - [Ordinals](https://ordinals.com/)
  - [Size Limit Restriction](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021370.html)
  - [Andrew Poelstra Response](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021372.html)
+ - [Downloading witness data during IDB](https://bitcoin.stackexchange.com/questions/117057/why-is-witness-data-downloaded-during-ibd-in-prune-mode)
+ - [Ordisrespector](https://minibolt.info/guide/bonus/bitcoin/ordisrespector.html)
 
 ## Lightning
 - [LN Async Proof of Payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003831.html)
