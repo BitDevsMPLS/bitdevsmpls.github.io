@@ -9,6 +9,11 @@ title: "Socratic Seminar 1"
 Welcome to the first Minneapolis Bitdevs. Big thanks to our host [Ostra Cybersecurity](https://maps.app.goo.gl/cSSvumatPqFG7ubq5?g_st=ic) for providing the space.
 This meetup will be run in the format of a Socratic Seminar, inspired by other [Bitdevs Socratic Seminars across the country](https://bitdevs.org/cities).
 
+# Details
+ - Where: [Ostra Cybersecurity](https://www.google.com/maps/place/Ostra+Cybersecurity+Inc./@44.8933576,-93.4485011,17z/data=!3m1!4b1!4m5!3m4!1s0x52b34b93ae094403:0xef55f345c4ca790!8m2!3d44.8933538!4d-93.4463124)
+ - When: February 21st. Socratic Seminar from 6:30pm - 830pm. 
+ - Happy Hour afterwards at [Scoreboard Bar and Grill](https://goo.gl/maps/PfpHh6rhWJcNYERr5) at 8:30pm. 
+
 # Why?
 In Minneapolis, we already have a [great meetup](https://twitter.com/BitcoinersMPLS) at [O'Shaughnessy Distillery](https://osdistilling.com/home-page/) once a month. What is different about this meetup?
 
