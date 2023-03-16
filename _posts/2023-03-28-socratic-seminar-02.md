@@ -31,6 +31,15 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Discussion
 
 ## Bitcoin
+ - [Service bit for Utreexo](https://eprint.iacr.org/2019/611.pdf)
+ - [Alternative OP_VAULT design](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021510.html)
+ - [Ephmeral Anchors](https://github.com/instagibbs/bips/blob/ephemeral_anchor/bip-ephemeralanchors.mediawiki)
+
 ## Lightning
+- [LN Async Proof of Payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003831.html)
+- [Proof of Payment Optech](https://bitcoinops.org/en/newsletters/2023/02/01/#ln-async-proof-of-payment)
+
 ## Misc
-## Replit Sats2Cycles
+ - [Sovereign rollups on Bitcoin](https://rollkit.dev/blog/sovereign-rollups-on-bitcoin/)
+
+## Demo - Replit Sats2Cycles
