@@ -31,6 +31,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Discussion
 
 ## Bitcoin
+ - [BIP 47 Bluewallet](https://github.com/BlueWallet/BlueWallet/pull/5373#pullrequestreview-1344560968)
  - [Service bit for Utreexo](https://eprint.iacr.org/2019/611.pdf)
  - [Alternative OP_VAULT design](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021510.html)
  - [Ephmeral Anchors](https://github.com/instagibbs/bips/blob/ephemeral_anchor/bip-ephemeralanchors.mediawiki)
@@ -41,5 +42,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 ## Misc
  - [Sovereign rollups on Bitcoin](https://rollkit.dev/blog/sovereign-rollups-on-bitcoin/)
+ - [Fedimint LND Support](https://github.com/fedimint/fedimint/pull/1907)
 
 ## Demo - Replit Sats2Cycles
