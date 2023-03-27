@@ -12,7 +12,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Details
  - Where: [Improving Inc](https://www.google.com/maps/place/1515+NE+Central+Ave,+Minneapolis,+MN+55413/@45.0037797,-93.2469316,17z/data=!4m6!3m5!1s0x52b32d965c06ad57:0x277e62e6c3015129!8m2!3d45.0039428!4d-93.2456978!16s%2Fg%2F11bw3z3dw6) 1515 NE Central Ave Minneapolis, MN 55413
  - When: Tuesday March 28st. Socratic Seminar from 6:30pm - 8:00pm. 
- - Happy Hour afterwards. Location to be announced. 
+ - Happy Hour afterwards at [Indeed Brewery](https://www.indeedbrewing.com/)
 
 # Rules
  - No Photos
@@ -41,6 +41,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 - [Proof of Payment Optech](https://bitcoinops.org/en/newsletters/2023/02/01/#ln-async-proof-of-payment)
 
 ## Misc
+ - [Zapalytics](https://zapalytics.com/)
  - [Sovereign rollups on Bitcoin](https://rollkit.dev/blog/sovereign-rollups-on-bitcoin/)
  - [Fedimint LND Support](https://github.com/fedimint/fedimint/pull/1907)
 
