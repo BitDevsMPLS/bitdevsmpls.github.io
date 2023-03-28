@@ -33,8 +33,11 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 ## Bitcoin
  - [BIP 47 Bluewallet](https://github.com/BlueWallet/BlueWallet/pull/5373#pullrequestreview-1344560968)
  - [Service bit for Utreexo](https://eprint.iacr.org/2019/611.pdf)
- - [Alternative OP_VAULT design](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021510.html)
+   - [Insert/Delete Algorithms](https://gist.github.com/kcalvinalvin/a790d524832e1b7f96a70c642315fffc)
+ - [BIP 327 MuSig2](https://github.com/bitcoin/bips/blob/master/bip-0327.mediawiki)
  - [Ephmeral Anchors](https://github.com/instagibbs/bips/blob/ephemeral_anchor/bip-ephemeralanchors.mediawiki)
+   - [Transaction Pinning](https://bitcoinops.org/en/topics/transaction-pinning/)
+   - [Version 3 Transaction](https://bitcoinops.org/en/topics/version-3-transaction-relay/)
 
 ## Lightning
 - [LN Async Proof of Payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003831.html)
