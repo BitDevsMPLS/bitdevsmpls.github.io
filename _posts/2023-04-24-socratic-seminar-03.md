@@ -39,5 +39,3 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 # Nostr
  - [CivKit](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021556.html)
-
-# Topics WIP
