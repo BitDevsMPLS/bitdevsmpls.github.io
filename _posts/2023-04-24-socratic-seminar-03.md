@@ -30,4 +30,14 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
+# Lightning
+ - [Route Blinding](https://github.com/lightning/bolts/pull/765?ref=nobsbitcoin.com)
+ - [Hierarchical Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003886.html)
+
+# Mining
+ - [Stratum V2](https://stratumprotocol.org/blog/stratumv2-jn-announcement/)
+
+# Nostr
+ - [CivKit](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021556.html)
+
 # Topics WIP
