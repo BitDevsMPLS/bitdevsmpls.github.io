@@ -33,12 +33,20 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Lightning
  - [Route Blinding](https://github.com/lightning/bolts/pull/765?ref=nobsbitcoin.com)
  - [Hierarchical Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003886.html)
+ - [Mutiny Wallet](https://blog.mutinywallet.com/introducing-mutiny/)
 
 # Bitcoin
  - [Linking Lion](https://b10c.me/observations/06-linkinglion/)
+ - [Taproot/MuSig2 Overview](https://lightning.engineering/posts/2023-04-19-taproot-musig2-recap/)
+ - [OP_VAULT Updates](https://twitter.com/jamesob/status/1639019107432513537)
+ - [Bitcoin Terms BIP](https://github.com/Xekyo/bips/pull/1)
+ - [Don't download witness](https://github.com/bitcoin/bitcoin/pull/27050)
 
 # Mining
  - [Stratum V2](https://stratumprotocol.org/blog/stratumv2-jn-announcement/)
 
 # Nostr
  - [CivKit](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021556.html)
+ - [N3BX](https://github.com/nobu-maeda/n3xb)
+
+ # Fedimint Demo
