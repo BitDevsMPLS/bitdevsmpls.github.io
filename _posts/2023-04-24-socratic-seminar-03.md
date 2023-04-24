@@ -49,4 +49,4 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [CivKit](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021556.html)
  - [N3BX](https://github.com/nobu-maeda/n3xb)
 
- # Fedimint Demo
+# Fedimint Demo
