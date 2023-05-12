@@ -30,4 +30,11 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [PoWswap](https://raw.githubusercontent.com/blockrate-binaries/paper/master/blockrate-binaries-paper.pdf)
+ - [ZeroSync](https://zerosync.org/zerosync.pdf)
+ - [The Bullish Case of Bitcoin Custodians](https://www.swanbitcoin.com/the-bullish-case-for-bitcoin-custodians/)
+
+# Layer 2
+ - [Proof of Liabilities](https://gist.github.com/callebtc/ed5228d1d8cbaade0104db5d1cf63939)
+ - [TBDXX](https://stacker.news/items/177563)
