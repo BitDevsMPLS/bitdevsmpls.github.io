@@ -36,6 +36,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Increased Stale Rate](https://forkmonitor.info/nodes/btc)
  - [Mempool Accelerator](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
  - [Fake Trezor](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
+ - [Ledger Recover](https://www.ledger.com/recover)
  - [PoWswap](https://raw.githubusercontent.com/blockrate-binaries/paper/master/blockrate-binaries-paper.pdf)
  - [ZeroSync](https://zerosync.org/zerosync.pdf)
  - [Ordinals off by one](https://github.com/casey/ord/issues/2062#issuecomment-1535305819)
