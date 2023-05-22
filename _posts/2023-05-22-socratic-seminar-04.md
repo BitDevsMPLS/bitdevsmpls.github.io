@@ -31,10 +31,19 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Discussion
 
 # Bitcoin
+ - [Fees are high!](https://mempool.space)
+ - [Overpaying Fees](https://mempool.space/tx/e3d87963afd1d160c72cfd66ba935c2a420e7aa9466e76e6ad1389b6a2b8574d)
+ - [Increased Stale Rate](https://forkmonitor.info/nodes/btc)
+ - [Mempool Accelerator](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
+ - [Fake Trezor](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
  - [PoWswap](https://raw.githubusercontent.com/blockrate-binaries/paper/master/blockrate-binaries-paper.pdf)
  - [ZeroSync](https://zerosync.org/zerosync.pdf)
- - [The Bullish Case of Bitcoin Custodians](https://www.swanbitcoin.com/the-bullish-case-for-bitcoin-custodians/)
+ - [Ordinals off by one](https://github.com/casey/ord/issues/2062#issuecomment-1535305819)
 
 # Layer 2
+ - [The Bullish Case of Bitcoin Custodians](https://www.swanbitcoin.com/the-bullish-case-for-bitcoin-custodians/)
  - [Proof of Liabilities](https://gist.github.com/callebtc/ed5228d1d8cbaade0104db5d1cf63939)
- - [TBDXX](https://stacker.news/items/177563)
+ - [Ark](https://www.arkpill.me/deep-dive)
+ - [Fedi Alpha](https://www.fedi.xyz/)
+
+# Bitcoin 2023 Conference Recap
