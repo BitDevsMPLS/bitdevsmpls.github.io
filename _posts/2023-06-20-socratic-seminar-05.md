@@ -11,7 +11,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 # Details
  - Where: [Improving Inc](https://www.google.com/maps/place/1515+NE+Central+Ave,+Minneapolis,+MN+55413/@45.0037797,-93.2469316,17z/data=!4m6!3m5!1s0x52b32d965c06ad57:0x277e62e6c3015129!8m2!3d45.0039428!4d-93.2456978!16s%2Fg%2F11bw3z3dw6) 1515 NE Central Ave Minneapolis, MN 55413
- - When: Monday April 24th. Socratic Seminar from 5pm - 7pm. Actual content will start ~5:30pm. 
+ - When: Tuesday June 20th. Socratic Seminar from 5pm - 7pm. Actual content will start ~5:30pm. 
  - Happy Hour afterwards at [Indeed Brewery](https://www.indeedbrewing.com/)
 
 # Rules
@@ -40,4 +40,4 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Darkpool](https://gist.github.com/moonsettler/6a214f5d01148ea204e9131b86a35382)
  - [Simple Arc Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
 
-# Demo
+# Demo: Border Wallets
