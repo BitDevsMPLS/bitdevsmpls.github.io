@@ -40,4 +40,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Darkpool](https://gist.github.com/moonsettler/6a214f5d01148ea204e9131b86a35382)
  - [Simple Arc Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
 
+# Misc
+ - [Contributing to Open Source](https://bitcoiner.guide/fork/)
+
 # Demo: Border Wallets
