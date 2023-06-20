@@ -33,7 +33,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Bitcoin
  - [Bad Bitcoin Nonces](https://eprint.iacr.org/2023/841.pdf)
  - [Bitcoin core v25](https://www.nobsbitcoin.com/bitcoin-core-v25-0/)
- - [Silent Payments](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021750.html)
+ - [Silent Payments](https://github.com/josibake/bips/blob/silent-payments-bip/bip-0000.mediawiki)
  - [BitKey: Screens are not a Panacea](https://bitkey.build/screens-are-not-a-panacea/)
 
 # Layer 2
