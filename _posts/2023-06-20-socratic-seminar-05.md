@@ -31,16 +31,20 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Discussion
 
 # Bitcoin
- - [Scaling and anonymizing Bitcoin at layer 1 with client-side validation](https://github.com/LNP-BP/layer1)
+ - [Bad Bitcoin Nonces](https://eprint.iacr.org/2023/841.pdf)
  - [Bitcoin core v25](https://www.nobsbitcoin.com/bitcoin-core-v25-0/)
  - [Silent Payments](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-June/021750.html)
+ - [BitKey: Screens are not a Panacea](https://bitkey.build/screens-are-not-a-panacea/)
 
 # Layer 2
  - [Lightning Payments – When Are They Too Small To Secure?](https://blog.bitmex.com/lightning-payments-when-are-they-too-small-to-secure/)
- - [Darkpool](https://gist.github.com/moonsettler/6a214f5d01148ea204e9131b86a35382)
  - [Simple Arc Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
+ - [Arc Liquidity Requirements](https://twitter.com/rot13maxi/status/1667963452168499201)
+ - [Darkpool](https://gist.github.com/moonsettler/6a214f5d01148ea204e9131b86a35382)
 
 # Misc
  - [Contributing to Open Source](https://bitcoiner.guide/fork/)
+ - [Apple does not like Zaps](https://www.nobsbitcoin.com/the-battle-for-zaps-on-damus-continues/)
+ - [Fedi Mainnet at BTC Prague](https://www.fedi.xyz/blog/announcing-the-first-ever-pop-up-federation-in-btc-prague)
 
 # Demo: Border Wallets
