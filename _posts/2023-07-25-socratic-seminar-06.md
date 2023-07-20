@@ -30,4 +30,16 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Lightning
+ - [Technical Walkthrough of HTLCs](https://lightning.engineering/posts/2023-06-28-channel-normal-op/)
+ - [Phoenix 3rd generation self custodial wallet](https://acinq.co/blog/phoenix-splicing-update)
+ - [Mutiny Wallet Beta](https://blog.mutinywallet.com/mutiny-wallet-open-beta/)
+ - [Zeus Embedded Node](https://iris.to/note1zjzmg39ltv4j4tvcx5hez4fyph4ad4djznp55kt6mjef6w68fegqgs0q7v)
+ - [L402](https://github.com/lightning/blips/pull/26)
+ - [Reducing Arc Interactivity](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454?permalink_comment_id=4633382#gistcomment-4633382)
+
+# Bitcoin
+ - [Parallel Block Processing](https://twitter.com/jratcliff/status/1679986272595582979?s=46&t=AmUC5uHhY1vk6-w6a_RJwg)
+ - [Many Faces of Schnorr](https://eprint.iacr.org/2023/1019)
+ - [Bitcoin Script Project](https://twitter.com/bergealex4/status/1674454861096660998)
+ - [ECC A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/?s=09)
