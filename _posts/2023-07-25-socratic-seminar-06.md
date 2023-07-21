@@ -39,6 +39,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Reducing Arc Interactivity](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454?permalink_comment_id=4633382#gistcomment-4633382)
 
 # Bitcoin
+ - [Frostsnap](https://frostsnap.com/)
  - [Parallel Block Processing](https://twitter.com/jratcliff/status/1679986272595582979?s=46&t=AmUC5uHhY1vk6-w6a_RJwg)
  - [Many Faces of Schnorr](https://eprint.iacr.org/2023/1019)
  - [Bitcoin Script Project](https://twitter.com/bergealex4/status/1674454861096660998)
