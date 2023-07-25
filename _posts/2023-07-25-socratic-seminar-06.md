@@ -45,7 +45,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 # Bitcoin
  - [Frostsnap](https://frostsnap.com/)
- - [Parallel Block Processing](https://twitter.com/jratcliff/status/1679986272595582979?s=46&t=AmUC5uHhY1vk6-w6a_RJwg)
  - [Many Faces of Schnorr](https://eprint.iacr.org/2023/1019)
  - [Bitcoin Script Project](https://twitter.com/bergealex4/status/1674454861096660998)
- - [ECC A Gentle Introduction](https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/?s=09)
+ - [APO Next?](https://twitter.com/rusty_twit/status/1676853497478938624)
+ - [Payjoin Dev Kit](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/)
