@@ -31,12 +31,17 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Discussion
 
 # Lightning
- - [Technical Walkthrough of HTLCs](https://lightning.engineering/posts/2023-06-28-channel-normal-op/)
+## Releases
  - [Phoenix 3rd generation self custodial wallet](https://acinq.co/blog/phoenix-splicing-update)
  - [Mutiny Wallet Beta](https://blog.mutinywallet.com/mutiny-wallet-open-beta/)
+ - [Web Wallets](https://twitter.com/fluffypony/status/1680571802249056256)
  - [Zeus Embedded Node](https://iris.to/note1zjzmg39ltv4j4tvcx5hez4fyph4ad4djznp55kt6mjef6w68fegqgs0q7v)
+ - [Torq v1.0](https://twitter.com/LN_Capital/status/1681701927258578944)
+
+## Research
+ - [Technical Walkthrough of HTLCs](https://lightning.engineering/posts/2023-06-28-channel-normal-op/)
  - [L402](https://github.com/lightning/blips/pull/26)
- - [Reducing Arc Interactivity](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454?permalink_comment_id=4633382#gistcomment-4633382)
+ - [Payment Hash Does Not Commit to Payment](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003983.html)
 
 # Bitcoin
  - [Frostsnap](https://frostsnap.com/)
