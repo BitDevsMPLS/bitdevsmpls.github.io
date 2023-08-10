@@ -30,4 +30,15 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [Milksad](https://milksad.info/disclosure.html)
+ - [Full RBF By Default](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021823.html)
+ - [libforesta](https://blog.dlsouza.lol/2023/07/07/libfloresta.html)
+ - [HRF Bounty Challenge](https://twitter.com/gladstein/status/1684567095231778818)
+
+# Lightning
+ - [Channel Jamming Mitigations](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021823.html)
+
+# Misc
+ - [Fedimint LDK Node](https://github.com/fedimint/fedimint/pull/2869)
+ - [Downfall](https://www.wired.com/story/downfall-flaw-intel-chips/)
