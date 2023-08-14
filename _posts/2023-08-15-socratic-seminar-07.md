@@ -35,9 +35,12 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Full RBF By Default](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021823.html)
  - [libforesta](https://blog.dlsouza.lol/2023/07/07/libfloresta.html)
  - [HRF Bounty Challenge](https://twitter.com/gladstein/status/1684567095231778818)
+ - [BitForge](https://www.fireblocks.com/blog/bitforge-fireblocks-researchers-uncover-vulnerabilities-in-over-15-major-wallet-providers)
+ - [CoinsPaid Hack](https://coinspaid.com/tpost/k4r6jt90p1-the-coinspaid-hack-explained)
 
 # Lightning
- - [Channel Jamming Mitigations](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021823.html)
+ - [Securing a $100M Lightning Node](https://acinq.co/blog/securing-a-100M-lightning-node#)
+ - [Putting the B in BTC](https://www.erisian.com.au/wordpress/2023/06/21/putting-the-b-in-btc)
 
 # Misc
  - [Fedimint LDK Node](https://github.com/fedimint/fedimint/pull/2869)
