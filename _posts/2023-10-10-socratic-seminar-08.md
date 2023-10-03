@@ -30,4 +30,16 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Covenants
+ - [OP_VAULT Demo](https://www.youtube.com/watch?v=7Zwm5iHFyBQ&t=1s)
+ - [Scaling Lightning With Simple Covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021943.html)
+ - [Covenant Tools Softfork PR](https://github.com/bitcoin/bitcoin/pull/28550)
+ - [Combined CTV+APO to minimal TXHASH+CSFS](https://gist.github.com/reardencode/2aa98700b720174598d21989dd46e781)
+
+# Bitcoin
+ - [assumeutxo merged](https://github.com/bitcoin/bitcoin/pull/27596)
+ - [BIP 324 merged](https://github.com/bitcoin/bitcoin/pull/28331)
+ - [Hunting the Real Bitcoin Network Hashrate](https://blog.lopp.net/hunting-the-real-bitcoin-network-hashrate/)
+
+# Lightning
+ - [Legends of Lightning](https://www.thrillerbitcoin.com/legends-of-lightning-hackathon/)
