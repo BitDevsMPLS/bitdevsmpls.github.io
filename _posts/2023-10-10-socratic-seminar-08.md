@@ -42,6 +42,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Lightning
  - [Legends of Lightning](https://www.thrillerbitcoin.com/legends-of-lightning-hackathon/)
  - [Taproot Assets blip](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004089.html)
+ - [Lexe App](https://twitter.com/lexeapp/status/1704643361548996879)
 
 # Covenants
  - [OP_VAULT Demo](https://www.youtube.com/watch?v=7Zwm5iHFyBQ&t=1s)
