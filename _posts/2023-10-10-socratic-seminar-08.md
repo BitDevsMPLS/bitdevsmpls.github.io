@@ -34,6 +34,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [assumeutxo merged](https://github.com/bitcoin/bitcoin/pull/27596)
  - [BIP 324 merged](https://github.com/bitcoin/bitcoin/pull/28331)
    - [BIP](https://github.com/dhruv/bips/blob/bip324/bip-0324.mediawiki)
+ - [MiniTapscript merged](https://github.com/bitcoin/bitcoin/pull/27255)
  - [Hunting the Real Bitcoin Network Hashrate](https://blog.lopp.net/hunting-the-real-bitcoin-network-hashrate/)
  - [UTXOracle](https://utxo.live/oracle/)
  - [Accidental 20BTC Fee](https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd)
