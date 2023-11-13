@@ -30,6 +30,9 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
+# Tooling
+ - Git & handing off a BitDevs session
+
 # Bitcoin
  - [BitVM](https://bitvm.org/bitvm.pdf)
 
