@@ -30,4 +30,8 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [BitVM](https://bitvm.org/bitvm.pdf)
+
+# Lightning
+ - [Replacement cycling attack CVE](https://github.com/ariard/mempool-research/blob/2023-10-replacement-paper/replacement-cycling.pdf)
