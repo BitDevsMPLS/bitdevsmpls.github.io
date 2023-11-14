@@ -36,6 +36,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Bitcoin
  - [BitVM](https://bitvm.org/bitvm.pdf)
  - [Sophon - a BRC-20 budge bot](https://bitcoinmagazine.com/technical/satoshis-sophon-destroyer-of-brc-20s)
+ - [Delving Bitcoin](https://delvingbitcoin.org)
 
 # Lightning
  - [Replacement cycling attack CVE](https://github.com/ariard/mempool-research/blob/2023-10-replacement-paper/replacement-cycling.pdf)
