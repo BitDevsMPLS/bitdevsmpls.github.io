@@ -33,4 +33,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Bitcoin
  - [Ocean](https://ocean.xyz/)
    * [83 BTC hack](https://www.nobsbitcoin.com/83-btc-fee-cold-wallet-hack/) and [Ocean's response](https://njump.me/nevent1qqs0czmhgll9v0tnv8yu0j8743ls2j4xggrdxduyrgemff6a0tu4nqcpr3mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmqzyqpdnat8dlluxw0la9xl4vuta03pecghcmc4p8vey25z6320ggx6yqcyqqqqqqg4cnfdd)
- - [BitVM slides](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/)
+ - BitVM
+   - [slides](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/)
+   - [8 bit computer](https://github.com/supertestnet/8bit-cpu-for-bitvm/tree/main) and [its inspiration](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
