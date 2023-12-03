@@ -36,3 +36,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - BitVM
    - [slides](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/)
    - [8 bit computer](https://github.com/supertestnet/8bit-cpu-for-bitvm/tree/main) and [its inspiration](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+ - [Fuzzing miniscript](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208)
+ - [Mempool clustering](https://delvingbitcoin.org/t/about-the-wg-cluster-mempool-category/155)
