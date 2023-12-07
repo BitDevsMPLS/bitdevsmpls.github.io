@@ -23,7 +23,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Helpful Links
  - [Twitter](https://twitter.com/BitcoinersMPLS)
  - [Website](https://bitdevsmpls.org)
- - Telegram - Will add upon request (reduces spam)
+ - SimpleX - Will add upon request, ask for QR code
 
 # Agenda
  - Introductions
