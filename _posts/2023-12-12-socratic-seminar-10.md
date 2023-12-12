@@ -34,10 +34,17 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Discussion
 
 # Bitcoin
- - [Ocean](https://ocean.xyz/)
-   * [83 BTC hack](https://www.nobsbitcoin.com/83-btc-fee-cold-wallet-hack/) and [Ocean's response](https://njump.me/nevent1qqs0czmhgll9v0tnv8yu0j8743ls2j4xggrdxduyrgemff6a0tu4nqcpr3mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmqzyqpdnat8dlluxw0la9xl4vuta03pecghcmc4p8vey25z6320ggx6yqcyqqqqqqg4cnfdd)
  - BitVM
    - [slides](https://docs.google.com/presentation/d/1vwWUP6PyDgZ4xh72fUouf5iBEZGuFLIF9-O5z5GUshs/)
    - [8 bit computer](https://github.com/supertestnet/8bit-cpu-for-bitvm/tree/main) and [its inspiration](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
  - [Fuzzing miniscript](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208)
  - [Mempool clustering](https://delvingbitcoin.org/t/about-the-wg-cluster-mempool-category/155)
+ - [Inscriptions: The cure is worse than the disease](https://habla.news/a/naddr1qqxnzdesxgerxdp58yenyvejqgswrlemlh2wgqc4jkds3d8ueqj9a2j3gcm7r48v9tskdd6rxsd7rtcrqsqqqa28wdzn0j)
+
+# Mining
+- [Ocean](https://ocean.xyz/)
+   * [83 BTC hack](https://www.nobsbitcoin.com/83-btc-fee-cold-wallet-hack/) and [Ocean's response](https://njump.me/nevent1qqs0czmhgll9v0tnv8yu0j8743ls2j4xggrdxduyrgemff6a0tu4nqcpr3mhxue69uhkummnw3ezucnfw33k76twv4ezuum0vd5kzmqzyqpdnat8dlluxw0la9xl4vuta03pecghcmc4p8vey25z6320ggx6yqcyqqqqqqg4cnfdd)
+   * [Coinbase bytes are not free](https://twitter.com/peterktodd/status/1731365186580484402)
+   * [Filtering Coinjoins](https://twitter.com/LukeDashjr/status/1733226675171962886)
+- [DEMAND](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool)
+- [Decentralized Mining Pool](https://github.com/mcelrath/braidcoin/blob/master/general_considerations.md)
