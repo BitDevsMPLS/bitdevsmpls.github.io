@@ -48,3 +48,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
    * [Filtering Coinjoins](https://twitter.com/LukeDashjr/status/1733226675171962886)
 - [DEMAND](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool)
 - [Decentralized Mining Pool](https://github.com/mcelrath/braidcoin/blob/master/general_considerations.md)
+- [Brains transitioning to FPPS](https://braiins.com/blog/goodbye-luck-hello-consistency-big-news-from-braiins-pool)
+
+# Lightning
+- [Lightning Address in a BOLT12 World](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004204.html)
