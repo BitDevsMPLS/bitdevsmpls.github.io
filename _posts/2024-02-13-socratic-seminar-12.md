@@ -21,6 +21,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Chatham House Rule](https://www.facilitator.school/blog/chatham-house-rule)
 
 # Helpful Links
+ - [Meetup](https://www.meetup.com/minneapolis-bitcoin-developers/events/298091019/)
  - [Twitter](https://twitter.com/BitcoinersMPLS)
  - [Website](https://bitdevsmpls.org)
  - [SimpleX](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2F2yDM8Eh4B5js6FLUOsANpVYwUt79Q_TO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqaz4Ij9Xxn3ziHXN9DhPBdbTgYc-XjGpKcr-oDBL-hc%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22I3WA2zuDa5OOHwDT6m0G8Q%3D%3D%22%7D)
