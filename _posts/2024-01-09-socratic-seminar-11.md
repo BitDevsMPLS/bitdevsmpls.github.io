@@ -47,7 +47,9 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Fedimint 0.2.1 Federate all the Things](https://github.com/fedimint/fedimint/releases/tag/v0.2.1)
  - [Awesome Fedimint](https://github.com/fedimint/awesome-fedimint)
  - [Mutiny Wallet Fedimint Support](https://github.com/MutinyWallet/mutiny-node/releases/tag/v0.5.1)
+ - [Stacker News Fedimint Territory](https://stacker.news/~fedimint)
 
 # Misc
+ - [Mercury Layer](https://bitcoinmagazine.com/technical/mercury-layer-a-massive-improvement-on-statechains)
  - [Resolvr Legends of Lightning](https://www.nobsbitcoin.com/legends-of-lightning-vol-2-winners/)
  - [Aqua Wallet](https://aquawallet.io/)
