@@ -37,6 +37,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Bitcoin
  - [v2 Transport Default PR](https://github.com/bitcoin/bitcoin/pull/29239)
  - [Block Stalling Bug](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499)
+ - [Optech](https://bitcoinops.org/en/newsletters/2024/02/07/)
  - [Proposal for RBF to escape pinning](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2024-January/022298.html)
  - [LNHANCE](https://delvingbitcoin.org/t/lnhance-bips-and-implementation/376)
  - [Fee Dependent Timelocks](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-December/004254.html)
