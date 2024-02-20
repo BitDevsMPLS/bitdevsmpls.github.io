@@ -34,4 +34,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Ecash
+- [Ecash and Lightning](https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp/586)
