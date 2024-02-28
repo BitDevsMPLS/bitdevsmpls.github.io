@@ -34,5 +34,14 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
+# Funding!
+ - [David Bailey Funding BitDevs](https://mempool.space/address/bc1q777s2k9nu2v87xts69fkw9zl8duua0qduw7pzl)
+
+# Bitcoin
+ - [CISA](https://github.com/BlockstreamResearch/cross-input-aggregation)
+ - [Swaproot](https://acinq.co/blog/phoenix-swaproot)
+ - [Great Consensus Cleanup](https://stacker.news/items/437269)
+
 # Ecash
-- [Ecash and Lightning](https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp/586)
+ - [Ecash and Lightning](https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp/586)
+ - [Fedimint Prediction Market](https://stacker.news/items/425620)
