@@ -40,6 +40,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Bitcoin
  - [CISA](https://github.com/BlockstreamResearch/cross-input-aggregation)
  - [Swaproot](https://acinq.co/blog/phoenix-swaproot)
+ - [Non standard transactions](https://b10c.me/observations/09-non-standard-transactions/)
  - [Great Consensus Cleanup](https://stacker.news/items/437269)
 
 # Ecash
