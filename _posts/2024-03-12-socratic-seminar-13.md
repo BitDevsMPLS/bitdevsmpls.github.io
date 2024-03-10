@@ -50,6 +50,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Dual Funding Optech](https://bitcoinops.org/en/topics/dual-funding/)
 
 # Ecash
+ - [Intuition for Cashu Blind Signature Scheme](https://delvingbitcoin.org/t/building-intuition-for-the-cashu-blind-signature-scheme/506)
  - [Ecash and Lightning](https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp/586)
  - [Fedimint Prediction Market](https://stacker.news/items/425620)
  - [Multinuteral Payments](https://twitter.com/callebtc/status/1766116631795662921)
