@@ -39,10 +39,20 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 # Bitcoin
  - [CISA](https://github.com/BlockstreamResearch/cross-input-aggregation)
+ - [Half Aggregation](https://twitter.com/real_or_random/status/1764978887996448839)
  - [Swaproot](https://acinq.co/blog/phoenix-swaproot)
  - [Non standard transactions](https://b10c.me/observations/09-non-standard-transactions/)
  - [Great Consensus Cleanup](https://stacker.news/items/437269)
+ - [TwentyTwo Devices](https://twitter.com/afilini/status/1766085500106920268)
+
+# Lightning
+ - [Dual Funding Merged](https://github.com/lightning/bolts/pull/851)
+ - [Dual Funding Optech](https://bitcoinops.org/en/topics/dual-funding/)
 
 # Ecash
  - [Ecash and Lightning](https://delvingbitcoin.org/t/ecash-and-lightning-via-zkcp/586)
  - [Fedimint Prediction Market](https://stacker.news/items/425620)
+ - [Multinuteral Payments](https://twitter.com/callebtc/status/1766116631795662921)
+
+# Misc
+ - [Keystache](https://stacker.news/items/436792)
