@@ -44,7 +44,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Non standard transactions](https://b10c.me/observations/09-non-standard-transactions/)
  - [Great Consensus Cleanup](https://stacker.news/items/437269)
  - [TwentyTwo Devices](https://twitter.com/afilini/status/1766085500106920268)
- - [Silent Payments](https://bitcoincore.reviews/28122)
+ - [Silent Payments](https://bitcoincore.reviews/28122) and [Silent Payment Indexer - classroom project](https://github.com/mplsgrant/silent-payment-indexer)
 
 # Lightning
  - [Dual Funding Merged](https://github.com/lightning/bolts/pull/851)
