@@ -6,8 +6,8 @@ title: "Socratic Seminar 13"
 
 ## Welcome
 
-Welcome back! Big thanks to new our host [Improving Inc](https://improving.com/) for providing the space!
-This meetup will be run in the format of a Socratic Seminar, inspired by other [Bitdevs Socratic Seminars across the country](https://bitdevs.org/cities).
+Welcome back! Big thanks to our host [Improving Inc](https://improving.com/) for providing the space!
+This meetup will be run in the format of a Socratic Seminar, inspired by other [BitDevs Socratic Seminars across the country](https://bitdevs.org/cities).
 
 # Details
  - Where: [Improving Inc](https://www.google.com/maps/place/1515+NE+Central+Ave,+Minneapolis,+MN+55413/@45.0037797,-93.2469316,17z/data=!4m6!3m5!1s0x52b32d965c06ad57:0x277e62e6c3015129!8m2!3d45.0039428!4d-93.2456978!16s%2Fg%2F11bw3z3dw6) 1515 NE Central Ave Minneapolis, MN 55413
