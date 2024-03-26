@@ -33,3 +33,11 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Introductions
  - Socratic Seminar Questions
  - Discussion
+
+# Bitcoin
+ - [Vulnerability Disclosure: Wasting ViaBTC's 60 EH/s hashrate by sending a P2P message](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/?x)
+ - [ViaBTC's mutated blocks without witness data](https://b10c.me/observations/10-viabtc-blocks-without-witness-data/?x)
+ - [Hedgehog](https://stacker.news/items/481321)
+
+# Lightning
+ - [Unleashing Liquidity on the Lightning Network with "lightning-liquidity"](https://lightningdevkit.org/blog/unleashing-liquidity-on-the-lightning-network-with-lightning-liquidity/)
