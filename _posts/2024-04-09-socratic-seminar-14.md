@@ -33,3 +33,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Introductions
  - Socratic Seminar Questions
  - Discussion
+
+# Bitcoin
+ - [Hedgehog](https://stacker.news/items/481321)
