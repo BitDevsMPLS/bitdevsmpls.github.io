@@ -34,10 +34,23 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# Bitcoin
+# Vulnerabilities
+ - [sshd backdoor](https://www.bleepingcomputer.com/news/security/red-hat-warns-of-backdoor-in-xz-tools-used-by-most-linux-distros/)
+ - [Free Relay Attack](https://bitcoinops.org/en/newsletters/2024/03/27/)
  - [Vulnerability Disclosure: Wasting ViaBTC's 60 EH/s hashrate by sending a P2P message](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/?x)
+
+# Bitcoin
  - [ViaBTC's mutated blocks without witness data](https://b10c.me/observations/10-viabtc-blocks-without-witness-data/?x)
+ - [SRI v1.0.0](https://stratumprotocol.org/blog/sri-1-0-0/)
+ - ["Whack a mole" Whirlpool](https://twitter.com/SamouraiWallet/status/1770560344865267954)
+ - [CoinSwaps](https://twitter.com/RajarshiMaitra/status/1768623072280809841)
  - [Hedgehog](https://stacker.news/items/481321)
 
 # Lightning
  - [Unleashing Liquidity on the Lightning Network with "lightning-liquidity"](https://lightningdevkit.org/blog/unleashing-liquidity-on-the-lightning-network-with-lightning-liquidity/)
+ - [phoenixd](https://phoenix.acinq.co/server)
+ - [Lightning Network Onion Routing: Sphinx Packet Construction](https://ellemouton.com/posts/sphinx/)
+
+# Fedimint
+ - [Federated Lightning Address](https://nostr.com/note13h74y3awywf32jqzs528grgugyyc49nu5n3mrgskzmm7lprvdtpsyc0r7u)
+ - [v0.3.0 Release](https://github.com/fedimint/fedimint/releases/tag/v0.3.0)
