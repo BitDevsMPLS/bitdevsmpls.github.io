@@ -33,3 +33,27 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Introductions
  - Socratic Seminar Questions
  - Discussion
+
+# News
+ - Halving
+ - btc++ recap
+ - Samourai Arrests, Wasabi shutdown, Phoenix leaving US
+
+
+# Bitcoin
+ - [The Great Script Restoration](https://twitter.com/reardencode/status/1788074956225651060)
+ - [Emmessbee](https://github.com/supertestnet/coinjoin-workshop)
+ - [The future of testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU/m/t6lm-nKmAQAJ?pli=1)
+ - [Testnet block storms](https://blog.lopp.net/the-block-storms-of-bitcoins-testnet/)
+ - [Mining Centralization](https://twitter.com/mononautical/status/1777686545715089605)
+ - [FPPS vs PPLNS](https://minebest.com/blog/pps-vs-fpps-vs-pplns-vs-pps-mining-pool-payouts-explained)
+ - [Consensus enforced Lamport Signatures](https://bitcoinops.org/en/newsletters/2024/05/08/)
+ - [New BIP Editors](https://github.com/bitcoin/bips/pull/1573)
+ - [Microstrategy Orange](https://atlas21.com/microstrategy-orange-the-proposal-for-online-identity-based-on-bitcoin/)
+ - [did:btc](https://microstrategy.github.io/did-btc-spec/)
+
+# Lightning
+ - [OCEAN BOLT12](https://njump.me/nevent1qqs8sz359u7ysd8hw39v99hlxl5zs7mzsrrw5rwpsctm0ufart2g0ngpp4mhxue69uhkummn9ekx7mqppamhxue69uhkummnw3ezumt0d5q3gamnwvaz7tmwdaehgu3wdau8gu3wv3jhvq3qqtvl2em0llpnnllffhat8zltugwwz97x79gfmxfz4qk52n6zpk3qn2uecg)
+
+# Misc
+ - [Blossom](https://github.com/hzrd149/blossom)
