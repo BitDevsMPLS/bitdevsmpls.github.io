@@ -33,3 +33,15 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Introductions
  - Socratic Seminar Questions
  - Discussion
+
+# Bitcoin
+ - [Proof-of-work based signet faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937)
+ - [Anonymous usage tokens](https://bitcoinops.org/en/newsletters/2024/05/17/#anonymous-usage-tokens)
+ - [By-hand seed phrase splitting](https://penlock.io/)
+
+# Lightning
+ - [LND v0.18](https://bitcoinops.org/en/newsletters/2024/05/31/#lnd-v0-18-0-beta)
+ - [BLIP-32](https://bitcoinops.org/en/newsletters/2024/06/07/#blips-32)
+
+# Fedimint
+ - [Fedimint fractional reserve bug](https://github.com/fedimint/fedimint/issues/5298)
