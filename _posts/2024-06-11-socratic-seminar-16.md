@@ -38,10 +38,18 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Proof-of-work based signet faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937)
  - [Anonymous usage tokens](https://bitcoinops.org/en/newsletters/2024/05/17/#anonymous-usage-tokens)
  - [By-hand seed phrase splitting](https://penlock.io/)
+ - [Functional Encryption](https://delvingbitcoin.org/t/fed-up-covenants/929)
+ - [Ginger Wallet](https://medium.com/@molnardavid84/ginger-wallet-first-contact-1abc8d292abd)
+ - [Cake Wallet](https://medium.com/breez-technology/adding-lightning-to-crypto-is-a-piece-of-cake-with-the-breez-sdk-2476db0ed9dc)
+ - [Dandelion++](https://www.therage.co/dandelion/)
 
 # Lightning
  - [LND v0.18](https://bitcoinops.org/en/newsletters/2024/05/31/#lnd-v0-18-0-beta)
  - [BLIP-32](https://bitcoinops.org/en/newsletters/2024/06/07/#blips-32)
 
 # Fedimint
- - [Fedimint fractional reserve bug](https://github.com/fedimint/fedimint/issues/5298)
+ - [Fedimint not recognizing change outputs](https://github.com/fedimint/fedimint/issues/5298)
+ - [Harbor](https://blog.mutinywallet.com/harbor/)
+
+ # Misc
+  - [Ark v2](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b)
