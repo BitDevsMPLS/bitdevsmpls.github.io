@@ -51,5 +51,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Fedimint not recognizing change outputs](https://github.com/fedimint/fedimint/issues/5298)
  - [Harbor](https://blog.mutinywallet.com/harbor/)
 
- # Misc
+# Misc
   - [Ark v2](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b)
