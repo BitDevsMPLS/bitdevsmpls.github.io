@@ -34,4 +34,22 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [Bitcoin Core Vulnerability Disclosure](https://bitcoinops.org/en/newsletters/2024/07/05/)
+ - [Bitcoin Core Disclosure Policy](https://groups.google.com/g/bitcoindev/c/Q2ZGit2wF7w)
+ - [Odd Bitcoin Transaction](https://stacker.news/items/600187)
+ - [Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
+ - [QuBit - Quantum Resistant Address](https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki)
+
+# Lightning
+ - [LND Onion Bomb](https://morehouse.github.io/lightning/lnd-onion-bomb/)
+ - [Phoenix BOLT12](https://x.com/PhoenixWallet/status/1808547081214439494)
+ - [BOLT11 Blinded Paths](https://bitcoinops.org/en/newsletters/2024/07/05/)
+
+# Misc
+ - [regreSSHion](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
+ - [Fedimint DNS Dependency](https://github.com/fedimint/fedimint/issues/5525)
+ - [Dynamic FROST](https://eprint.iacr.org/2024/896)
+ - [FROST BYOK](https://conduition.io/cryptography/frost-byok/)
+
+# Demo: ROASTr
