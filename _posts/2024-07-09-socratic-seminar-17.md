@@ -49,7 +49,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Misc
  - [regreSSHion](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
  - [Fedimint DNS Dependency](https://github.com/fedimint/fedimint/issues/5525)
- - [Dynamic FROST](https://eprint.iacr.org/2024/896)
+ - [ChillDKG](https://github.com/BlockstreamResearch/bip-frost-dkg)
  - [FROST BYOK](https://conduition.io/cryptography/frost-byok/)
 
 # Demo: ROASTr
