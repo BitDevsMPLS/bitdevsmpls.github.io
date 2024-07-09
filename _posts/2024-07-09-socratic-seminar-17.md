@@ -45,7 +45,8 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Lightning
  - [LND Onion Bomb](https://morehouse.github.io/lightning/lnd-onion-bomb/)
  - [Phoenix BOLT12](https://x.com/PhoenixWallet/status/1808547081214439494)
- - [BOLT11 Blinded Paths](https://bitcoinops.org/en/newsletters/2024/07/05/)
+ - [BOLT11 Blinded Paths](https://delvingbitcoin.org/t/blip-bolt-11-invoice-blinded-path-tagged-field/)
+ - [Estimating payment feasibility](https://delvingbitcoin.org/t/estimating-likelihood-for-lightning-payments-to-be-in-feasible/)
 
 # Misc
  - [regreSSHion](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
