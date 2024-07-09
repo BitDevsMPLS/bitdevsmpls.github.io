@@ -38,8 +38,9 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Bitcoin Core Vulnerability Disclosure](https://bitcoinops.org/en/newsletters/2024/07/05/)
  - [Bitcoin Core Disclosure Policy](https://groups.google.com/g/bitcoindev/c/Q2ZGit2wF7w)
  - [Odd Bitcoin Transaction](https://stacker.news/items/600187)
- - [Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
+ - [BIP 352: DNS Payment Instructions](https://github.com/bitcoin/bips/blob/master/bip-0353.mediawiki)
  - [QuBit - Quantum Resistant Address](https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki)
+ - [Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
 
 # Lightning
  - [LND Onion Bomb](https://morehouse.github.io/lightning/lnd-onion-bomb/)
@@ -53,3 +54,4 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [FROST BYOK](https://conduition.io/cryptography/frost-byok/)
 
 # Demo: ROASTr
+ - [Github](https://github.com/m1sterc001guy/roastr)
