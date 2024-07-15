@@ -34,4 +34,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [Mining Pool Game Theory during Forks](https://b10c.me/blog/014-mining-pool-game-theory-during-forks/)
