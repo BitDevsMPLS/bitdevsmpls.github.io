@@ -42,6 +42,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Pay-To-Anchor Replacement Recycle Attack](https://bitcoinops.org/en/newsletters/2024/08/09/)
  - [Testnet4 Difficulty Adjustment Fix](https://github.com/bitcoin/bitcoin/pull/29775)
  - [Octojoin](https://uncensoredtech.substack.com/p/octojoin)
+ - [Cluster Mempool](https://bitcoinops.org/en/topics/cluster-mempool/)
 
 # Lightning
  - [Taproot Assets Launched](https://x.com/roasbeef/status/1815807239762108571)
