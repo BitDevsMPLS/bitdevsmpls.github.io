@@ -35,4 +35,19 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Discussion
 
 # Bitcoin
+ - [Mempool Accelerator](https://mempool.space/accelerator)
  - [Mining Pool Game Theory during Forks](https://b10c.me/blog/014-mining-pool-game-theory-during-forks/)
+ - [Dark Skippy](https://darkskippy.com/)
+ - [Overview of anti-covert-channel signing techniques](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-March/017667.html)
+ - [Pay-To-Anchor Replacement Recycle Attack](https://bitcoinops.org/en/newsletters/2024/08/09/)
+ - [Testnet4 Difficulty Adjustment Fix](https://github.com/bitcoin/bitcoin/pull/29775)
+ - [Octojoin](https://uncensoredtech.substack.com/p/octojoin)
+
+# Lightning
+ - [Taproot Assets Launched](https://x.com/roasbeef/status/1815807239762108571)
+
+# Misc
+ - [Fedimint v0.4.1](https://github.com/fedimint/fedimint/releases/tag/v0.4.1)
+ - [Fedimint Observer](https://observer.fedimint.org/)
+ - [Mutiny Wallet Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
+ - [Distributed Key Generation for FROST](https://bitcoinops.org/en/newsletters/2024/07/19/)
