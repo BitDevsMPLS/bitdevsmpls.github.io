@@ -43,6 +43,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Testnet4 Difficulty Adjustment Fix](https://github.com/bitcoin/bitcoin/pull/29775)
  - [Octojoin](https://uncensoredtech.substack.com/p/octojoin)
  - [Cluster Mempool](https://bitcoinops.org/en/topics/cluster-mempool/)
+ - [Delving Bitcoin Cluster Mempool](https://delvingbitcoin.org/t/cluster-mempool-block-building-with-sub-chunk-granularity/1044)
 
 # Lightning
  - [Taproot Assets Launched](https://x.com/roasbeef/status/1815807239762108571)
@@ -51,4 +52,4 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Fedimint v0.4.1](https://github.com/fedimint/fedimint/releases/tag/v0.4.1)
  - [Fedimint Observer](https://observer.fedimint.org/)
  - [Mutiny Wallet Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
- - [Distributed Key Generation for FROST](https://bitcoinops.org/en/newsletters/2024/07/19/)
+ - [Distributed Key Generation for FROST](https://bitcoinops.org/en/newsletters/2024/07/19/#distributed-key-generation-protocol-for-frost)
