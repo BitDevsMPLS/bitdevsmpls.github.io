@@ -34,4 +34,18 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+- [Coinbase Withdrawl Fees](https://blog.lopp.net/problems-with-coinbase-withdrawal-fees/)
+- [Soft-Fork/Covenant Dependent Layer 2 Review](https://petertodd.org/2024/covenant-dependent-layer-2-review)
+- [Non interactive anti-exfil](https://delvingbitcoin.org/t/non-interactive-anti-exfil-airgap-compatible/1081)
+- [Optech anti-exfil](https://bitcoinops.org/en/newsletters/2024/08/23/)
+- [Proton Wallet](https://proton.me/blog/proton-wallet-launch)
+
+# Lightning
+- [Strike Supports Paying BOLT12 Offers](https://strike.me/blog/bolt12-offers/)
+- [Breez SDK Liquid 0.3.0](https://github.com/breez/breez-sdk-liquid/releases/tag/0.3.0)
+
+# Misc
+- [Yubikey Vulnerable to cloning attacks](https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/)
+- [The Rise of E-Cash: Maybe you don't need a Blockchain](https://blog.nicolas-dorier.com/posts/cashu/)
+- [Ark v0.2](https://arkdev.info/blog/ark-release-v0.2/)
