@@ -49,3 +49,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 - [Yubikey Vulnerable to cloning attacks](https://arstechnica.com/security/2024/09/yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel/)
 - [The Rise of E-Cash: Maybe you don't need a Blockchain](https://blog.nicolas-dorier.com/posts/cashu/)
 - [Ark v0.2](https://arkdev.info/blog/ark-release-v0.2/)
+
+# Demo: Warnet
+ - [Warnet](https://warnet.dev/)
