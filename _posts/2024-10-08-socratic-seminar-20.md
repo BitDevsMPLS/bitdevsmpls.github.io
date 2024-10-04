@@ -33,5 +33,22 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
+# Bitcoin
+ - [Block Template Similarities between Mining Pools](https://b10c.me/observations/12-template-similarity/)
+ - [SuperScalar](https://delvingbitcoin.org/t/superscalar-laddered-timeout-tree-structured-decker-wattenhofer-factories/1143)
+ - [Shielded CSV Announcement](https://x.com/n1ckler/status/1837194004552655077)
+ - [Shielded CSV](https://t.co/VPklBgLUPL)
+ - [NOIST](https://blog.brollup.org/introducing-noist-a-non-interactive-single-round-t-of-n-threshold-signing-protocol-51225fe513fa)
+ - [NOIST reaction](https://x.com/n1ckler/status/1835609767739363340)
+ - [DATUM](https://newsdirect.com/news/ocean-restoring-bitcoin-mining-decentralization-177177279)
+ - [btcd Disclosure](https://delvingbitcoin.org/t/non-disclosure-of-a-consensus-bug-in-btcd/1177)
+
+# Lightning
+ - [BOLT12 Merged into spec](https://github.com/lightning/bolts/pull/798)
+ - [Channel Jamming](https://delvingbitcoin.org/t/hybrid-jamming-mitigation-results-and-updates/1147)
+
+# Misc
+ - [Fedimint Web SDK](https://x.com/fedimint/status/1841925788884754491)
+
 # Demos
  - [Warnet demo](https://warnet.dev/)
