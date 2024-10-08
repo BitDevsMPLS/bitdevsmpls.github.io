@@ -51,6 +51,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Fedimint Web SDK](https://x.com/fedimint/status/1841925788884754491)
  - [Minneapolis Fed Upgraded to v0.4.3](https://github.com/fedimint/fedimint/blob/master/docs/RELEASE_NOTES-v0.4.md)
  Required careful coordinated shutdown. Please update your Fedi app if you haven't!
+ - [Fedimint Gateway](https://x.com/fedimint/status/1843664285756731499)
 
 # Demos
  - [Warnet demo](https://warnet.dev/)
