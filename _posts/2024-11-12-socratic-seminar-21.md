@@ -33,4 +33,10 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [Building in the open: a novel design for smartphone-based bitcoin wallets](https://bitkey.build/building-in-the-open/)
+ - [Libbitcoin for Core people](https://delvingbitcoin.org/t/libbitcoin-for-core-people/1222)
+
+# Misc
+ - [The Ark Protocol: An Easy Introduction](https://thunderbiscuit.com/posts/ark/)
+ - [Introducing Spark](https://www.lightspark.com/news/introducing-spark)
