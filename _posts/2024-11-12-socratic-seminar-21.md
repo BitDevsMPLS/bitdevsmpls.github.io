@@ -6,13 +6,13 @@ title: "Socratic Seminar 21"
 
 ## Welcome
 
-Welcome back! Big thanks to our host [Improving Inc](https://improving.com/) for providing the space!
+Welcome to a special BitDevs at [O'Shaughnessy Distilling Co](https://osdistilling.com/home/)!
 This meetup will be run in the format of a Socratic Seminar, inspired by other [BitDevs Socratic Seminars across the country](https://bitdevs.org/cities).
 
 # Details
- - Where: [Improving Inc](https://www.google.com/maps/place/1515+NE+Central+Ave,+Minneapolis,+MN+55413/@45.0037797,-93.2469316,17z/data=!4m6!3m5!1s0x52b32d965c06ad57:0x277e62e6c3015129!8m2!3d45.0039428!4d-93.2456978!16s%2Fg%2F11bw3z3dw6) 1515 NE Central Ave Minneapolis, MN 55413
- - When: Tuesday November 12th. Socratic Seminar from 5pm - 7pm. Social begins at 5pm, seminar will start at 5:30pm. 
- - Happy Hour afterwards at [Indeed Brewery](https://www.indeedbrewing.com/)
+ - Where: [O'Shaughnessy Distilling Co](https://maps.app.goo.gl/RA1GGqUSzNxiQiGm7) 600 Malcolm Ave SE, Minneapolis, MN 55414
+ - When: Tuesday November 12th. Socratic Seminar from 5pm - 6:30pm. Socratic Seminar will start at 5pm. 
+ - Normal social meetup to follow.
 
 # Rules
  - No Photos
@@ -41,3 +41,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Misc
  - [The Ark Protocol: An Easy Introduction](https://thunderbiscuit.com/posts/ark/)
  - [Introducing Spark](https://www.lightspark.com/news/introducing-spark)
+ - [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
+ - [Pubky](https://github.com/pubky/pkdns)
