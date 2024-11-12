@@ -35,8 +35,14 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 # Bitcoin
  - [Building in the open: a novel design for smartphone-based bitcoin wallets](https://bitkey.build/building-in-the-open/)
- - [Libbitcoin for Core people](https://delvingbitcoin.org/t/libbitcoin-for-core-people/1222)
+ - [Unlocking Mass-Market Self-Custody](https://assets.ctfassets.net/mtmp6hzjjvnd/6Qjcs8zgMiyffC0Uk8cx4V/6d1553946b50b132209518be8ff3026f/Unlocking_Mass_Market_Self_Custody_-10-24-.pdf)
+ - [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap)
  - [libsecp256k1 v0.6.0](https://x.com/n1ckler/status/1853492564705366029)
+ - [ColliderScript](https://colliderscript.co/colliderscript.pdf)
+ - [ColliderScript Email Summary](https://groups.google.com/g/bitcoindev/c/cLiwlH6sC3o)
+
+# Lightning
+ - [LN Summit 2024 Notes & Summary/Commentary](https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198)
 
 # Misc
  - [The Ark Protocol: An Easy Introduction](https://thunderbiscuit.com/posts/ark/)
