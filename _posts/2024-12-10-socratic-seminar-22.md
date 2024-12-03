@@ -33,4 +33,16 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [Lark](https://x.com/craigraw/status/1863882416546271714)
+ - [UTXO Snapshots](https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/)
+ - [The Consensus Conundrum](https://x.com/jamesob/status/1857049961235403101)
+ - [Core's Loss of Focus](https://x.com/jamesob/status/1860340932706730261)
+
+# Lightning
+ - [Payment Censorship in the Lightning Network Despite Encrypted Communication](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.12/LIPIcs.AFT.2024.12.pdf)
+
+# Misc
+ - [Radpool](https://www.radpool.xyz/1/index.html)
+ - [Ecash mints funded with Spillman channels](https://gist.github.com/lukechilds/307341239beac72c9d8cfe3198f9bfff)
+ - [Olas](https://www.nobsbitcoin.com/olas-v0-1-4/)
