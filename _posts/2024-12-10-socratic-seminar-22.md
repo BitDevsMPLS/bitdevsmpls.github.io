@@ -37,6 +37,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Lark](https://x.com/craigraw/status/1863882416546271714)
  - [UTXO Snapshots](https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/)
  - [Taproot Technical Explanation](https://learnmeabitcoin.com/technical/upgrades/taproot/)
+ - [Wasabi Privacy Vulnerability](https://github.com/GingerPrivacy/GingerWallet/discussions/116)
  - [The Consensus Conundrum](https://x.com/jamesob/status/1857049961235403101)
  - [Core's Loss of Focus](https://x.com/jamesob/status/1860340932706730261)
  - [Covenants Support](https://en.bitcoin.it/wiki/Covenants_support)
