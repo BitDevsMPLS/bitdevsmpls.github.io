@@ -33,4 +33,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [PQ fallback key using taproot](https://gnusha.org/pi/bitcoindev/52f3bfc0-9446-4400-bf7a-7e38e5777c56@dashjr.org/T/#m8c9407a48d3358be40fb94ab512c3e72b95e17cc)
