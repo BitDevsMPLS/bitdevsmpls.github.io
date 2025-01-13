@@ -34,11 +34,13 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Discussion
 
 # Bitcoin
+ - [Antoine Poinsot Softforks](https://antoinep.com/posts/softforks/)
  - [PQ fallback key using taproot](https://gnusha.org/pi/bitcoindev/52f3bfc0-9446-4400-bf7a-7e38e5777c56@dashjr.org/T/#m8c9407a48d3358be40fb94ab512c3e72b95e17cc)
  - [Coinswap v0.1.0](https://github.com/citadel-tech/coinswap/releases/tag/v0.1.0)
  - [Reiterating Centralized Coinjoin Deanonymization techniques](https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c?pli=1)
  - [Rust JoinStr](https://github.com/pythcoiner/joinstr)
  - [Bull Bitcoin Payjoin](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
+ - [Discreet Log Contract Factories](https://conduition.io/scriptless/dlc-factory/)
 
 # Lightning
  - [Disclosure: irrevocable fees—stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314?u=antoinep)
