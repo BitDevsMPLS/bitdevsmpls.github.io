@@ -48,3 +48,4 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
  # Misc
  - [OpenSats Year in Review](https://opensats.org/blog/2024-year-in-review)
+ - [Fedimint v0.5.0](https://github.com/fedimint/fedimint/releases/)
