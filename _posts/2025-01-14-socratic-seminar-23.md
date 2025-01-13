@@ -46,6 +46,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Disclosure: irrevocable fees—stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314?u=antoinep)
 
 
- # Misc
+# Misc
  - [OpenSats Year in Review](https://opensats.org/blog/2024-year-in-review)
  - [Fedimint v0.5.0](https://github.com/fedimint/fedimint/releases/)
