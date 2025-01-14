@@ -41,6 +41,8 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Rust JoinStr](https://github.com/pythcoiner/joinstr)
  - [Bull Bitcoin Payjoin](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
  - [Discreet Log Contract Factories](https://conduition.io/scriptless/dlc-factory/)
+ - [Prevent future duplicate coinbase transactions as part of consensus cleanup](https://groups.google.com/g/bitcoindev/c/KRwDa8aX3to)
+ - [OP_EXPIRE](https://delvingbitcoin.org/t/op-expire-mitigating-replacing-cycling-attacks/1282)
 
 # Lightning
  - [Disclosure: irrevocable fees—stealing from LN using revoked commitment transactions](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314?u=antoinep)
