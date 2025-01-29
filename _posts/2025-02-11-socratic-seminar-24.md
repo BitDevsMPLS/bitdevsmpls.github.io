@@ -35,4 +35,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Lightning
+ - [Private Lightning Gossip](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
