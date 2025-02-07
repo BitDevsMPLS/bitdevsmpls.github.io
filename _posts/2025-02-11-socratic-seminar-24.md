@@ -41,11 +41,13 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Bitcoin Payments](https://breez.technology/report/)
  - [Address Poisoning Dust Attack](https://x.com/mononautical/status/1883802593677435065)
  - [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
+ - [Bitcoin 2024 Annual Review](https://blog.lopp.net/bitcoin-2024-annual-review/)
 
 # Lightning
  - [Private Lightning Gossip](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
  - [LDK: Invalid Claims Liquidity Griefing](https://morehouse.github.io/lightning/ldk-invalid-claims-liquidity-griefing/)
  - [Tether on Lightning](https://bitcoinmagazine.com/takes/tether-is-back-on-bitcoin-lightning-dominance-is-just-starting)
+ - [LND Silent Payments Send](https://github.com/lightningnetwork/lnd/pull/9398)
 
 # Misc
  - [All HRF Bounties Claimed](https://njump.me/nevent1qqsyjvkr2gzs8yrsq2actl0xrj7cstng8gsgy26fuwla4q9s2jmz74qpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3q7xvf49kht23cddxgw92rvfktkd3vqvjgkgsdexh9847wl0927tqsyhpwhy)
