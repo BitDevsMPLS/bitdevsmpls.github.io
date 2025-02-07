@@ -35,5 +35,19 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
+# Bitcoin
+ - [Mempool Cleared](https://x.com/mononautical/status/1885881969264693445)
+ - [Blocksize Report](https://research.mempool.space/block-size-report/)
+ - [Bitcoin Payments](https://breez.technology/report/)
+ - [Address Poisoning Dust Attack](https://x.com/mononautical/status/1883802593677435065)
+ - [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
+
 # Lightning
  - [Private Lightning Gossip](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
+ - [LDK: Invalid Claims Liquidity Griefing](https://morehouse.github.io/lightning/ldk-invalid-claims-liquidity-griefing/)
+ - [Tether on Lightning](https://bitcoinmagazine.com/takes/tether-is-back-on-bitcoin-lightning-dominance-is-just-starting)
+
+# Misc
+ - [All HRF Bounties Claimed](https://njump.me/nevent1qqsyjvkr2gzs8yrsq2actl0xrj7cstng8gsgy26fuwla4q9s2jmz74qpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3q7xvf49kht23cddxgw92rvfktkd3vqvjgkgsdexh9847wl0927tqsyhpwhy)
+ - [Coinbase Users Lose $300M a year to social engineering scams](https://threadreaderapp.com/thread/1886411879939031530.html)
+ - [Ark Wallet SDK](https://blog.arklabs.to/introducing-the-ark-wallet-sdk-d1c77ce61cfc)
