@@ -46,6 +46,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Lightning
  - [Private Lightning Gossip](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
  - [LDK: Invalid Claims Liquidity Griefing](https://morehouse.github.io/lightning/ldk-invalid-claims-liquidity-griefing/)
+ - [LDK Pathfinding](https://lightningdevkit.org/blog/ldk-pathfinding/)
  - [Tether on Lightning](https://bitcoinmagazine.com/takes/tether-is-back-on-bitcoin-lightning-dominance-is-just-starting)
  - [LND Silent Payments Send](https://github.com/lightningnetwork/lnd/pull/9398)
 
