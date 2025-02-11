@@ -42,6 +42,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Address Poisoning Dust Attack](https://x.com/mononautical/status/1883802593677435065)
  - [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
  - [Bitcoin 2024 Annual Review](https://blog.lopp.net/bitcoin-2024-annual-review/)
+ - [Proton Wallet Launch](https://proton.me/blog/wallet-launch)
 
 # Lightning
  - [Private Lightning Gossip](https://delvingbitcoin.org/t/zk-gossip-for-lightning-channel-announcements/1407)
@@ -51,6 +52,8 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [LND Silent Payments Send](https://github.com/lightningnetwork/lnd/pull/9398)
 
 # Misc
+ - [LDK Gateway in Fedimint](https://lightningdevkit.org/blog/fedimint-lightning-gateway-uses-ldk-node-to-simplify-deployment-and-liquidity-management/)
+ - [Obscura VPN](https://x.com/carl_dong/status/1889381916081791265)
  - [All HRF Bounties Claimed](https://njump.me/nevent1qqsyjvkr2gzs8yrsq2actl0xrj7cstng8gsgy26fuwla4q9s2jmz74qpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3q7xvf49kht23cddxgw92rvfktkd3vqvjgkgsdexh9847wl0927tqsyhpwhy)
  - [Coinbase Users Lose $300M a year to social engineering scams](https://threadreaderapp.com/thread/1886411879939031530.html)
  - [Ark Wallet SDK](https://blog.arklabs.to/introducing-the-ark-wallet-sdk-d1c77ce61cfc)
