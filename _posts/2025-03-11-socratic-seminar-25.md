@@ -33,4 +33,18 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-# TBD
+# Bitcoin
+ - [MEVpool, The Best Bandaid We Have For MEV](https://bitcoinmagazine.com/technical/mevpool-the-best-bandaid-we-have-for-mev)
+ - [Stop using brain wallets](https://x.com/mononautical/status/1895639824197206352)
+ - [Multiparty Payjoin](https://github.com/payjoin/rust-payjoin/pull/434/)
+
+# Lightning
+ - [Self hosted Bitcoin Address using BIP353 and BOLT12](https://x.com/ConorOkus/status/1895541511447855235)
+ - [Zero-fee commitments for mobile wallets](https://delvingbitcoin.org/t/zero-fee-commitments-for-mobile-wallets/1453)
+ - [How MuSig2 Is Powering Lightning Liquidity with Loop](https://lightning.engineering/posts/2025-02-13-loop-musig2/)
+
+# Misc
+ - [Fedimint PWA](https://github.com/ngutech21/vipr-wallet)
+ - [Fedimint v0.6.0](https://github.com/fedimint/fedimint/releases/tag/v0.6.0)
+ - [Tropic Secure Element](https://tropicsquare.com/tropic01)
+ - [Frostr](https://github.com/FROSTR-ORG)
