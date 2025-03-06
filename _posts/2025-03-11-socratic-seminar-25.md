@@ -37,11 +37,13 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [MEVpool, The Best Bandaid We Have For MEV](https://bitcoinmagazine.com/technical/mevpool-the-best-bandaid-we-have-for-mev)
  - [Stop using brain wallets](https://x.com/mononautical/status/1895639824197206352)
  - [Multiparty Payjoin](https://github.com/payjoin/rust-payjoin/pull/434/)
+ - [Bitcoin Core Priorities](https://delvingbitcoin.org/t/antoine-poinsot-on-bitcoin-cores-priorities/1470)
 
 # Lightning
  - [Self hosted Bitcoin Address using BIP353 and BOLT12](https://x.com/ConorOkus/status/1895541511447855235)
  - [Zero-fee commitments for mobile wallets](https://delvingbitcoin.org/t/zero-fee-commitments-for-mobile-wallets/1453)
  - [How MuSig2 Is Powering Lightning Liquidity with Loop](https://lightning.engineering/posts/2025-02-13-loop-musig2/)
+ - [LND: Excessive Failback Exploit](https://morehouse.github.io/lightning/lnd-excessive-failback-exploit/)
 
 # Misc
  - [Fedimint PWA](https://github.com/ngutech21/vipr-wallet)
