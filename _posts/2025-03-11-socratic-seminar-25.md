@@ -50,3 +50,4 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Fedimint v0.6.0](https://github.com/fedimint/fedimint/releases/tag/v0.6.0)
  - [Tropic Secure Element](https://tropicsquare.com/tropic01)
  - [Frostr](https://github.com/FROSTR-ORG)
+ - [Cashu Embedded Emojis](https://github.com/cashubtc/cashu.me/pull/333)
