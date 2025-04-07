@@ -38,8 +38,11 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Consensus Cleanup BIP Draft](https://github.com/bitcoin/bips/pull/1800)
  - [CISA Research](https://cisaresearch.org/)
  - [OP_CCV BIP Draft](https://github.com/bitcoin/bips/pull/1793)
- - [Bitcoin's Security Model: A Deep Dive](https://blog.lopp.net/bitcoins-security-model-a-deep-dive/)
- - [Lopp Removing Checkpoints post](https://x.com/lopp/status/1900510875561144526)
+ - [consensus: Remove checkpoints](https://github.com/bitcoin/bitcoin/pull/31649)
+ - [Why does Bitcoin Core use checkpoints?](https://bitcoin.stackexchange.com/questions/125626/why-bitcoin-core-uses-checkpoints-and-not-the-assumevalid-block)
+ - [Headers Presync](https://bitcoinops.org/en/newsletters/2022/09/07/)
 
 # Misc
  - [Electrum 4.6 Nostr Support](https://x.com/ElectrumWallet/status/1905024339759550760)
+
+# Demo: Fedimint
