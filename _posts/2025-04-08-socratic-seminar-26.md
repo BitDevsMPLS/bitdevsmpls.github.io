@@ -41,6 +41,12 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [consensus: Remove checkpoints](https://github.com/bitcoin/bitcoin/pull/31649)
  - [Why does Bitcoin Core use checkpoints?](https://bitcoin.stackexchange.com/questions/125626/why-bitcoin-core-uses-checkpoints-and-not-the-assumevalid-block)
  - [Headers Presync](https://bitcoinops.org/en/newsletters/2022/09/07/)
+ - [Chain Forks](https://bitcoin.stackexchange.com/questions/126019/up-to-date-statistics-about-chain-reorganizations)
+ - [bitcoin_payment_instructions](https://docs.rs/bitcoin-payment-instructions/latest/bitcoin_payment_instructions/)
+
+# Lightning
+ - [Misty Breeze](https://blog.breez.technology/misty-breez-lightning-made-easy-b2090bb7435c)
+ - [Implement quiescence protocol](https://github.com/lightningdevkit/rust-lightning/pull/3588)
 
 # Misc
  - [Electrum 4.6 Nostr Support](https://x.com/ElectrumWallet/status/1905024339759550760)
