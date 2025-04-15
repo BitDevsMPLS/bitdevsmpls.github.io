@@ -32,3 +32,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Introductions
  - Socratic Seminar Questions
  - Discussion
+
+#Bitcoin
+ - [Bitcoin Mining Centeralization](https://b10c.me/blog/015-bitcoin-mining-centralization/)
