@@ -32,3 +32,25 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Introductions
  - Socratic Seminar Questions
  - Discussion
+
+# Bitcoin
+ - [Bitcoin Core v29.0](https://www.nobsbitcoin.com/bitcoin-core-v29-0/)
+ - OP_RETURN Drama
+   - [Remove arbitrary limits on OP_Return (datacarrier) outputs](https://github.com/bitcoin/bitcoin/pull/32359)
+   - [Relay Policy](https://antoinep.com/posts/relay_policy_drama/)
+   - [btc++ debate](https://x.com/cguida6/status/1920490816352485727)
+ - [SwiftSync](https://gist.github.com/RubenSomsen/a61a37d14182ccd78760e477c78133cd)
+ - [Miner Centralization Index](https://x.com/0xB10C/status/1912154976886890820)
+ - [Mempool Partitioning and Identifying Mining Nodes](https://crypt-iq.github.io/coinscope-post.html)
+ - [Mempool Taproot Visualization](https://x.com/mempool/status/1911389181101679080)
+ - [BitVM CTV + CSFS](https://delvingbitcoin.org/t/how-ctv-csfs-improves-bitvm-bridges/1591)
+ - [secp256k1lab](https://bitcoinmagazine.com/technical/secp256k1lab-an-insecure-python-library-that-makes-bitcoin-safer)
+ - [Coinswap v0.1.1](https://www.nobsbitcoin.com/coinswap-v0-1-1/)
+ - [The Timewarp Attack](https://blog.bitmex.com/the-timewarp-attack/)
+
+# Lightning
+ - [Path Queries: Addressing Payment Reliability and Routing Limitations](https://delvingbitcoin.org/t/path-queries-addressing-payment-reliability-and-routing-limitations/1672)
+
+# Misc
+ - [Fedimint v0.7.1](https://github.com/fedimint/fedimint/releases)
+ - [Clementine: A Collateral-Efficient, Trust-Minimized, and Scalable Bitcoin Bridge](https://citrea.xyz/clementine_whitepaper.pdf)
