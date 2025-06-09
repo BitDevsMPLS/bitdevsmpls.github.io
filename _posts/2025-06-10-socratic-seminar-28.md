@@ -36,9 +36,11 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Bitcoin
  - [Scaling noncustodial Mining Payouts with CTV](https://delvingbitcoin.org/t/scaling-noncustodial-mining-payouts-with-ctv/1753)
  - [Bitcoin Core Relay Statement](https://bitcoincore.org/en/2025/06/06/relay-statement/)
+ - [policy: uncap datacarrier by default](https://github.com/bitcoin/bitcoin/pull/32406)
  - [Selfish Mining](https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from/1757)
  - [First use of Taproot Annex](https://x.com/mononautical/status/1921180666831499737)
  - [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
+ - [CTV + CSFS](https://ctv-csfs.com/)
  - [On the possibility of evil covenants and implications for soft fork proposals](https://delvingbitcoin.org/t/on-the-possibility-of-evil-covenants-and-implications-for-soft-fork-proposals/1703)
 
 # Lightning
@@ -48,3 +50,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Misc
  - [Another explanation of how Ark works](https://nehanarula.org/2025/05/20/ark.html)
  - [ArkadeOS](https://arkadeos.com/news)
+
+# Demo: Vending Machine
