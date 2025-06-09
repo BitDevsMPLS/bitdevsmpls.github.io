@@ -32,3 +32,19 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Introductions
  - Socratic Seminar Questions
  - Discussion
+
+# Bitcoin
+ - [Scaling noncustodial Mining Payouts with CTV](https://delvingbitcoin.org/t/scaling-noncustodial-mining-payouts-with-ctv/1753)
+ - [Bitcoin Core Relay Statement](https://bitcoincore.org/en/2025/06/06/relay-statement/)
+ - [Selfish Mining](https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from/1757)
+ - [First use of Taproot Annex](https://x.com/mononautical/status/1921180666831499737)
+ - [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
+ - [On the possibility of evil covenants and implications for soft fork proposals](https://delvingbitcoin.org/t/on-the-possibility-of-evil-covenants-and-implications-for-soft-fork-proposals/1703)
+
+# Lightning
+ - [Amboss Rails](https://amboss.tech/rails)
+ - [LNBig Routing Data](https://njump.me/nevent1qqsfjq45qu5d8tzjhz2kqtzsw49dn8tucyva2jat8trpxnlh4muqzjspzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgqgdwaehxw309ahx7uewd3hkcq3qngumlqmus6xkrmvvee4yc7swh9h4uk7vpq4ddt7a2jtvkc22y0asytq3hw)
+
+# Misc
+ - [Another explanation of how Ark works](https://nehanarula.org/2025/05/20/ark.html)
+ - [ArkadeOS](https://arkadeos.com/news)
