@@ -43,11 +43,13 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [CTV + CSFS](https://ctv-csfs.com/)
    - [CTV](https://bitcoinops.org/en/topics/op_checktemplateverify/)
    - [CSFS](https://bitcoinops.org/en/topics/op_checksigfromstack/)
+ - [Seedless is Safer](https://x.com/jack/status/1927387517113778606)
  - [On the possibility of evil covenants and implications for soft fork proposals](https://delvingbitcoin.org/t/on-the-possibility-of-evil-covenants-and-implications-for-soft-fork-proposals/1703)
  - [Sybil resistance in coinjoin implementations](https://uncensoredtech.substack.com/p/sybil-resistance-in-coinjoin-implementations)
 
 # Lightning
  - [Amboss Rails](https://amboss.tech/rails)
+ - [c= APR](https://x.com/RyanTheGentry/status/1927795177759928763)
  - [LNBig Routing Data](https://njump.me/nevent1qqsfjq45qu5d8tzjhz2kqtzsw49dn8tucyva2jat8trpxnlh4muqzjspzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgqgdwaehxw309ahx7uewd3hkcq3qngumlqmus6xkrmvvee4yc7swh9h4uk7vpq4ddt7a2jtvkc22y0asytq3hw)
 
 # Misc
