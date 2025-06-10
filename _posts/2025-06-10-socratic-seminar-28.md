@@ -41,7 +41,10 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [First use of Taproot Annex](https://x.com/mononautical/status/1921180666831499737)
  - [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707)
  - [CTV + CSFS](https://ctv-csfs.com/)
+   - [CTV](https://bitcoinops.org/en/topics/op_checktemplateverify/)
+   - [CSFS](https://bitcoinops.org/en/topics/op_checksigfromstack/)
  - [On the possibility of evil covenants and implications for soft fork proposals](https://delvingbitcoin.org/t/on-the-possibility-of-evil-covenants-and-implications-for-soft-fork-proposals/1703)
+ - [Sybil resistance in coinjoin implementations](https://uncensoredtech.substack.com/p/sybil-resistance-in-coinjoin-implementations)
 
 # Lightning
  - [Amboss Rails](https://amboss.tech/rails)
