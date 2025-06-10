@@ -53,5 +53,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Misc
  - [Another explanation of how Ark works](https://nehanarula.org/2025/05/20/ark.html)
  - [ArkadeOS](https://arkadeos.com/news)
+ - [Hashpool](https://blog.cashu.space/what-is-hashpool/)
 
 # Demo: Vending Machine
