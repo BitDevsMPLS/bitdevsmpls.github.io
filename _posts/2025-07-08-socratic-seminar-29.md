@@ -33,4 +33,11 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
-Agenda will be determined closer to the date. [Please submit a PR](https://github.com/BitDevsMPLS/bitdevsmpls.github.io/pulls) if you want to add a topic or do a demo.
+# Bitcoin
+ - [Fingerprinting nodes via addr requests](https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786)
+ - [What's a good stopping point? Making the case for the capabilities enabled by CTV+CSFS](https://groups.google.com/g/bitcoindev/c/-qJc1EWQzY0)
+ - [Wallet Clustering Basics](https://spiralbtc.substack.com/p/the-scroll-2-wallet-clustering-basics)
+ - [Easy Bitcoin Address Server](https://x.com/ConorOkus/status/1940852227687547191)
+
+# Lightning
+ - [LND BOLT12](https://x.com/mauricepoirrier/status/1937985062139544050)
