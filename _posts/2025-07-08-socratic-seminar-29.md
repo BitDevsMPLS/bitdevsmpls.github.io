@@ -33,6 +33,9 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
 
+# News
+ - [Plebfi July 26-27 Miami, FL](https://x.com/PlebFi/status/1932068733931106509)
+
 # Bitcoin
  - [Fingerprinting nodes via addr requests](https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786)
  - [What's a good stopping point? Making the case for the capabilities enabled by CTV+CSFS](https://groups.google.com/g/bitcoindev/c/-qJc1EWQzY0)
