@@ -39,8 +39,15 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Bitcoin
  - [Fingerprinting nodes via addr requests](https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786)
  - [What's a good stopping point? Making the case for the capabilities enabled by CTV+CSFS](https://groups.google.com/g/bitcoindev/c/-qJc1EWQzY0)
+ - [The case for privatizing Bitcoin core](https://groups.google.com/g/bitcoindev/c/43yjt8MXMvo)
  - [Wallet Clustering Basics](https://spiralbtc.substack.com/p/the-scroll-2-wallet-clustering-basics)
  - [Easy Bitcoin Address Server](https://x.com/ConorOkus/status/1940852227687547191)
+ - [OP_CAT enables Winternitz Signatures](https://groups.google.com/g/bitcoindev/c/Zx_NMqZH65Y)
+ - [Sub 1 sat/vbyte transactions mined](https://x.com/peterktodd/status/1935709056695775583)
 
 # Lightning
  - [LND BOLT12](https://x.com/mauricepoirrier/status/1937985062139544050)
+ - [Wallet of Satoshi implements Spark](https://bitcoinmagazine.com/news/wallet-of-satoshi-partners-with-spark-to-offer-self-custodial-bitcoin-lightning-experience)
+ - [Statechains](https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39)
+
+# Demo: Carbine, a new Fedimint wallet
