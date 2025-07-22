@@ -32,5 +32,8 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Introductions
  - Socratic Seminar Questions
  - Discussion
+ - # Agenda
+   - Tor dropping OS spoofing: What to know and effects [Watch the overview](https://www.youtube.com/watch?v=3wlNemFwbwE) joeFi
+ - Discussion
 
 Agenda will be determined closer to the date. [Please submit a PR](https://github.com/BitDevsMPLS/bitdevsmpls.github.io/pulls) if you want to add a topic or do a demo.
