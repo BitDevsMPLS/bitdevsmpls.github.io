@@ -33,7 +33,16 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - Socratic Seminar Questions
  - Discussion
  - # Agenda
-   - Tor dropping OS spoofing: What to know and effects [Watch the overview](https://www.youtube.com/watch?v=3wlNemFwbwE) joeFi
+   
  - Discussion
 
-Agenda will be determined closer to the date. [Please submit a PR](https://github.com/BitDevsMPLS/bitdevsmpls.github.io/pulls) if you want to add a topic or do a demo.
+# Bitcoin
+ - [Coinjoin Implementation Comparisons](https://petertodd.org/2025/coinjoin-comparison)
+ - [peer-observer](https://b10c.me/projects/024-peer-observer/)
+ - [Chain Code Delegation: Private Access Control for Bitcoin Keys](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837)
+ - [Presidio Bitcoin Quantum Summit Summary](https://x.com/rot13maxi/status/1946736064262975525)
+
+# Misc
+ - [Leaf Splitting in Spark](https://hackmd.io/@januszgrze/spark-leaves)
+ - [Simplicity activated on Liquid](https://x.com/byronhambly/status/1950993794276511918)
+ - [Tor dropping OS spoofing: What to know and effects](https://www.youtube.com/watch?v=3wlNemFwbwE) joeFi
