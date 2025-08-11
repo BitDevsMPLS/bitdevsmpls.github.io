@@ -40,9 +40,15 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Coinjoin Implementation Comparisons](https://petertodd.org/2025/coinjoin-comparison)
  - [peer-observer](https://b10c.me/projects/024-peer-observer/)
  - [Chain Code Delegation: Private Access Control for Bitcoin Keys](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys/1837)
+ - [A simple backup scheme for wallet accounts](https://delvingbitcoin.org/t/a-simple-backup-scheme-for-wallet-accounts/1607)
  - [Presidio Bitcoin Quantum Summit Summary](https://x.com/rot13maxi/status/1946736064262975525)
+ - [Sub 1sat/vbyte transactions](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
+   - [Luxor Block Templates](https://x.com/mononautical/status/1944934985237942662)
 
 # Misc
  - [Leaf Splitting in Spark](https://hackmd.io/@januszgrze/spark-leaves)
- - [Simplicity activated on Liquid](https://x.com/byronhambly/status/1950993794276511918)
+ - [Simplicity activated on Liquid](https://simplicity-lang.org/)
+ - [SimplicityHL](https://delvingbitcoin.org/t/writing-simplicity-programs-with-simplicityhl/1900)
  - [Tor dropping OS spoofing: What to know and effects](https://www.youtube.com/watch?v=3wlNemFwbwE) joeFi
+ - [Fedimint v0.8.0](https://github.com/fedimint/fedimint/releases/tag/v0.8.0)
+   - [Start9 Fedimint](https://x.com/fedimint/status/1953793505639178363)
