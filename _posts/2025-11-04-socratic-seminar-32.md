@@ -1,0 +1,39 @@
+---
+layout: post
+type: socratic
+title: "Socratic Seminar 32"
+---
+
+## Welcome
+
+Welcome! We have a new host this month while Improving Inc is moving. We will be at the Big Brothers Big Sisters building in Minneapolis. See below for address.
+
+This meetup will be run in the format of a Socratic Seminar, inspired by other [BitDevs Socratic Seminars across the country](https://bitdevs.org/cities).
+
+# Details
+ - Where: [3110 N Washington Ave, Minneapolis](https://maps.app.goo.gl/s5R5cUr7E2kRxdSR8)
+ - When: Tuesday November 4th. Socratic Seminar from 6pm - 8pm.
+ - We will figure out a spot for Happy Hour afterwards
+
+# Rules
+ - No Photos
+ - Be Respectful
+ - Keep the conversation technical
+ - [Chatham House Rule](https://www.facilitator.school/blog/chatham-house-rule)
+
+# Helpful Links
+ - [TC Bitcoin](https://tcbitcoin.com/)
+ - [Twitter](https://x.com/BitdevsMpls)
+ - [Website](https://bitdevsmpls.org)
+ - [SimpleX](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2F2yDM8Eh4B5js6FLUOsANpVYwUt79Q_TO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAqaz4Ij9Xxn3ziHXN9DhPBdbTgYc-XjGpKcr-oDBL-hc%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion&data=%7B%22type%22%3A%22group%22%2C%22groupLinkId%22%3A%22I3WA2zuDa5OOHwDT6m0G8Q%3D%3D%22%7D)
+
+
+<img src="../simplex.jpeg" width="250" height="250" />
+
+# Agenda
+
+# Bitcoin
+ - [Bitcoin Cope v30 is released](https://bitcoincore.org/en/releases/30.0/)
+ - [IDB Improvements in v30](https://github.com/bitcoin/bitcoin/pull/32043)
+ - [Perf Improvements](https://x.com/L0RINC/status/1970918510248575358/photo/1)
+
