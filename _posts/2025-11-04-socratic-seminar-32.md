@@ -33,7 +33,22 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 # Agenda
 
 # Bitcoin
- - [Bitcoin Cope v30 is released](https://bitcoincore.org/en/releases/30.0/)
+ - [Bitcoin Core v30 is released](https://bitcoincore.org/en/releases/30.0/)
  - [IDB Improvements in v30](https://github.com/bitcoin/bitcoin/pull/32043)
  - [Perf Improvements](https://x.com/L0RINC/status/1970918510248575358/photo/1)
+ - [Public Disclosure of 4 Bitcoin Core Security advisories](https://groups.google.com/g/bitcoindev/c/sBpCgS_yGws)
+ - [Reduced Data Temporary Softfork](https://github.com/bitcoin/bips/pull/2017)
+ - [BIP444 Gambling](https://x.com/Rob1Ham/status/1983954652103164256)
+ - [Stats on compact block reconstruction](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/44)
+ - [BIP Proposal: Limit ScriptPubKey Size >= 520 Bytes Consensus](https://groups.google.com/g/bitcoindev/c/YO8ZwnG_ISs)
+ - [BIP: Chain Code Delegation for Private Collaborative Custody](https://github.com/bitcoin/bips/pull/2004)
+ - [Arkade](https://arkade.money)
+ - [Arkade Launch](https://bitcoinmagazine.com/news/arkade-launches-as-bitcoin-layer-2)
+ - [OP_TEMPLATEHASH vs OP_CTV](https://bitcoin.stackexchange.com/questions/128097/i-read-that-op-templatehash-is-a-variant-of-op-ctv-how-do-they-differ)
+
+# Misc
+ - [Golden: Lightweight Non-Interactive Distributed Key Generation](https://primal.net/e/nevent1qqsfunjtjn0hksrl4erafl9wmy0zl7707dszwzgqyuq700usnlzgy4qvgh8ld)
+ - [Fedimint v0.9.0 Smooth Operator](https://github.com/fedimint/fedimint/releases/tag/v0.9.0)
+ - [Ecash App](https://ecash.love)
+ - [DoS in Cashu](https://delvingbitcoin.org/t/public-disclosure-denial-of-service-using-htlc-in-cashu/2090)
 
