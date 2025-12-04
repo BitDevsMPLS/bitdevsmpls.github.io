@@ -32,5 +32,20 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 # Agenda
 
-Agenda is still being finalized, please submit a pull request if you have a topic you would like to discuss!
+# Bitcoin
+ - [Cluster Mempool merged to master](https://github.com/bitcoin/bitcoin/pull/33629)
+ - [Motion to activate BIP3](https://groups.google.com/g/bitcoindev/c/j4_toD-ofEc)
+ - [Consensus bug on NBitcoin](https://delvingbitcoin.org/t/consensus-bug-on-nbitcoin-out-of-bound-issue-in-remove/2120)
+ - [LNHANCE](https://groups.google.com/g/bitcoindev/c/AlMqLbmzxNA)
+ - [Taproot Swaps](https://blog.boltz.exchange/p/introducing-taproot-swaps-putting)
+ - [Propagation Delay and Mining Centralization: Modeling Stale Rates](https://delvingbitcoin.org/t/propagation-delay-and-mining-centralization-modeling-stale-rates/2110)
+ - [OP_CIV Post-Quantum Signature Aggregation](https://gnusha.org/pi/bitcoindev/05195086-ee52-472c-962d-0df2e0b9dca2n@googlegroups.com/)
 
+# Lightning
+ - [Zero-fee commitments using v3 transactions](https://github.com/lightning/bolts/pull/1228)
+ - [LND v0.20](https://lightning.engineering/posts/2025-12-03-lnd-0.20-launch/)
+
+# Misc
+ - [BOSS Challenge](https://bosschallenge.xyz/)
+
+# Demo: Kyle - sats tracking app
