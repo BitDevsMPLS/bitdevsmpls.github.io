@@ -30,4 +30,15 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 <img src="../simplex.jpeg" width="250" height="250" />
 
-# Agenda TBD
+# Agenda
+
+# Bitcoin
+ - [Bitcoin Core v30 Migration Bug](https://bitcoincore.org/en/2026/01/05/wallet-migration-bug/)
+ - [Blockstream Jade Security Disclosure](https://blog.blockstream.com/jade-security-disclosure/)
+ - [Hash Based Signature Schemes for Bitcoin](https://x.com/n1ckler/status/1998407064213704724?s=20)
+ - [SHRINCS](https://delvingbitcoin.org/t/shrincs-324-byte-stateful-post-quantum-signatures-with-static-backups/2158)
+ - [Swift Bitcoin](https://github.com/swift-bitcoin/swift-bitcoin)
+
+# Misc
+ - [Arc as a Channel Factory: Compressed Liquidity Management for Improved Payment Feasibility](https://delvingbitcoin.org/t/ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility/2179)
+ - [Arkade + Fedimint](https://x.com/januszg_/status/2003087387010773443)
