@@ -37,8 +37,12 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Blockstream Jade Security Disclosure](https://blog.blockstream.com/jade-security-disclosure/)
  - [Hash Based Signature Schemes for Bitcoin](https://x.com/n1ckler/status/1998407064213704724?s=20)
  - [SHRINCS](https://delvingbitcoin.org/t/shrincs-324-byte-stateful-post-quantum-signatures-with-static-backups/2158)
+ - [BIP360 Update](https://delvingbitcoin.org/t/major-bip-360-update/2170)
+ - [Bithoven](https://delvingbitcoin.org/t/bithoven-a-formally-verified-imperative-smart-contract-language-for-bitcoin/2189)
+ - [HornetUTXO](https://delvingbitcoin.org/t/hornet-utxo-1-a-custom-constant-time-highly-parallel-utxo-database/2201)
  - [Swift Bitcoin](https://github.com/swift-bitcoin/swift-bitcoin)
 
 # Misc
  - [Arc as a Channel Factory: Compressed Liquidity Management for Improved Payment Feasibility](https://delvingbitcoin.org/t/ark-as-a-channel-factory-compressed-liquidity-management-for-improved-payment-feasibility/2179)
  - [Arkade + Fedimint](https://x.com/januszg_/status/2003087387010773443)
+ - [Silent Payments via Nostr](https://delvingbitcoin.org/t/silent-payments-notifications-via-nostr/2203)
