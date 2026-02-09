@@ -34,4 +34,17 @@ Also, this is our three year aniversary of BitDevs in Minneapolis!
 
 <img src="../simplex.jpeg" width="250" height="250" />
 
-# Agenda TBD
+# Bitcoin
+ - [TAPSCRIPT_v2 (Great Script Restoration)](https://github.com/bitcoin-inquisition/bitcoin/pull/104)
+ - [Disposing of "dust attack" UTXOs](https://delvingbitcoin.org/t/disposing-of-dust-attack-utxos/2215)
+ - [Sigbash v2](https://x.com/arbedout/status/2020885323778044259?s=20)
+ - [IbisWallet](https://github.com/aeonBTC/IbisWallet)
+ - [BIP110 Signaling](https://bip110.org/)
+ - [Addressing remaining points on BIP54](https://groups.google.com/g/bitcoindev/c/6TTlDwP2OQg?pli=1)
+ - [Falcon Post-Quantum Signature Scheme Proposal](https://groups.google.com/g/bitcoindev/c/PsClmK4Em1E)
+
+# Lightning
+ - [deletefwdinghistory](https://x.com/SuperTestnet/status/2016617203278180775)
+
+# Misc
+ - [The BitVM Bridge](https://insider.btcpp.dev/p/the-bitvm-bridge)
