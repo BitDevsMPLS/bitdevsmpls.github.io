@@ -49,3 +49,4 @@ Also, this is our three year aniversary of BitDevs in Minneapolis!
 
 # Misc
  - [The BitVM Bridge](https://insider.btcpp.dev/p/the-bitvm-bridge)
+ - [Fedimint v0.10.0 - Lighthouse](https://github.com/fedimint/fedimint/releases/tag/v0.10.0)
