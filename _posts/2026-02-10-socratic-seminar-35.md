@@ -42,6 +42,7 @@ Also, this is our three year aniversary of BitDevs in Minneapolis!
  - [BIP110 Signaling](https://bip110.org/)
  - [Addressing remaining points on BIP54](https://groups.google.com/g/bitcoindev/c/6TTlDwP2OQg?pli=1)
  - [Falcon Post-Quantum Signature Scheme Proposal](https://groups.google.com/g/bitcoindev/c/PsClmK4Em1E)
+ - [Mitigating the Impact of the Quantum Freeze](https://www.bitmex.com/blog/Mitigating-The-Impact-Of-The-Quantum-Freeze)
 
 # Lightning
  - [deletefwdinghistory](https://x.com/SuperTestnet/status/2016617203278180775)
