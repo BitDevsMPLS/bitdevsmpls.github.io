@@ -15,7 +15,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 Also, this is our three year aniversary of BitDevs in Minneapolis!
 
 # Details
- - Where: Improving Inc [3033 Excelsior Blvd, Suite 180, Minneapolis, MN 55416](https://maps.app.goo.gl/pPVGfKgd6wqtyEzt6)
+ - Where: Improving Inc [3033 Excelsior Blvd, Suite 180, Minneapolis, MN 55416](https://maps.app.goo.gl/pPVGfKgd6wqtyEzt6). Follow the abstract orange art piece to the elevators, go up to floor 1, and its straight down the hallway in Suite 180.
  - When: Tuesday February 10th. Social gathering starts at 5pm. Socratic Seminar from 5:30 - 7pm.
  - We will figure out a new spot for happy hour given this is our first time at this location.
 
