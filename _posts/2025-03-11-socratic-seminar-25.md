@@ -51,3 +51,4 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Tropic Secure Element](https://tropicsquare.com/tropic01)
  - [Frostr](https://github.com/FROSTR-ORG)
  - [Cashu Embedded Emojis](https://github.com/cashubtc/cashu.me/pull/333)
+ - [Free Internetworking Peering System - FIPS](https://github.com/jmcorgan/fips)
