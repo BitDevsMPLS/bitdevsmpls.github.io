@@ -33,3 +33,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 <img src="../simplex.jpeg" width="250" height="250" />
 
 # TBD
+
+# MISC
+- [Free Internetworking Peering System](https://github.com/jmcorgan/fips)
