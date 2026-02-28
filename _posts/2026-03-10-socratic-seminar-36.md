@@ -36,3 +36,4 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 # MISC
 - [Free Internetworking Peering System](https://github.com/jmcorgan/fips)
+- [MtGox Hardfork](https://github.com/bitcoin/bitcoin/pull/34695)
