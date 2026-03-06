@@ -40,6 +40,7 @@ Bring your laptops!
 - [Unhuman.deals](https://unhuman.deals/)
 - [clawi.ai](https://clawi.ai/)
 - [Lobster University](https://fcf2af38.clawi.ai/lobster-university/)
+- [Cloaked Wireless](https://www.cloakedwireless.com/)
 
 # Vibe Coding
 - [Large Scale Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
