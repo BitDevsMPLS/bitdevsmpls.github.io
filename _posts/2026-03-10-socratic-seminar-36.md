@@ -6,16 +6,16 @@ title: "Socratic Seminar 36"
 
 ## Welcome
 
-LOCATION CHANGE!
-
-We are back at Improving Inc this month. They have moved locations, double check the address below.
-
 This meetup will be run in the format of a Socratic Seminar, inspired by other [BitDevs Socratic Seminars across the country](https://bitdevs.org/cities).
+
+This month's theme will be vibe coding, OpenClaw, and agentic payments!
+
+Bring your laptops!
 
 # Details
  - Where: Improving Inc [3033 Excelsior Blvd, Suite 180, Minneapolis, MN 55416](https://maps.app.goo.gl/pPVGfKgd6wqtyEzt6). Follow the abstract orange art piece to the elevators, go up to floor 1, and its straight down the hallway in Suite 180.
  - When: Tuesday March 10th. Social gathering starts at 5pm. Socratic Seminar from 5:30 - 7pm.
- - Happy Hour at Steel Toe or somewhere else.
+ - Happy Hour at Steel Toe.
 
 # Rules
  - No Photos
@@ -32,9 +32,40 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 <img src="../simplex.jpeg" width="250" height="250" />
 
-# TBD
+# Agents
+- [OpenClaw](https://openclaw.ai/)
+- [Start History](https://x.com/openclaw/status/2028347703621464481?s=20)
+- [Open-Source AI Needs to Get Serious](https://spiralbtc.substack.com/p/open-source-ai-needs-to-get-serious?r=53cq2n&triedRedirect=true)
+- [Google CLI](https://x.com/rauchg/status/2029356560494018956?s=20)
+- [Unhuman.deals](https://unhuman.deals/)
+- [clawi.ai](https://clawi.ai/)
+- [Lobster University](https://fcf2af38.clawi.ai/lobster-university/)
 
-# MISC
-- [Free Internetworking Peering System](https://github.com/jmcorgan/fips)
+# Vibe Coding
+- [Large Scale Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
+- [OpenCode](https://opencode.ai/)
+- [Claude Code](https://code.claude.com/docs/en/overview)
+- [Codex](https://openai.com/codex/)
+
+# Model Providers
+- [MapleAI](https://trymaple.ai/)
+- [Routstr](https://routstr.com/)
+- [OpenRouter](https://openrouter.ai/)
+- [Venice AI](https://venice.ai/)
+- [Venice AI Privacy](https://x.com/kenziyuliu/status/2027491361885458785?s=20)
+- [Privacy Policies](https://x.com/heygurisingh/status/2027760029101920357?s=20)
+- [Qwen](https://x.com/Alibaba_Qwen/status/2028460046510965160?s=20)
+
+# Bitcoin
+- [Binohash](https://robinlinus.com/binohash.pdf)
+- [Forkalicious](https://forkalicious.supertestnet.org/)
+- [BIP54 Compatible Block](https://bnoc.xyz/t/forward-compatible-coinbase-locktimes-for-bip-54/75/4)
+- [Social Replay Exploit](https://replaysocialattack.netlify.app/)
+- [Cake Wallet adds Lightning](https://x.com/cakewallet/status/2028531059160182943?s=20)
+- [Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions](https://eprint.iacr.org/2026/380)
 - [MtGox Hardfork](https://github.com/bitcoin/bitcoin/pull/34695)
+
+# Misc
+- [Free Internetworking Peering System](https://github.com/jmcorgan/fips)
 - [GrapheneOS Partners with Motorola](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+- [Fedimint Lightning Gateway on Start9](https://marketplace.start9.com/fedimint-gatewayd?api=community-beta-registry.start9.com&name=Community%20Beta%20Registry)
