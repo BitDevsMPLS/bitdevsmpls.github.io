@@ -34,13 +34,18 @@ Bring your laptops!
 
 # Agents
 - [OpenClaw](https://openclaw.ai/)
-- [Start History](https://x.com/openclaw/status/2028347703621464481?s=20)
+- [Star History](https://x.com/openclaw/status/2028347703621464481?s=20)
+- [NanoClaw](https://github.com/qwibitai/nanoclaw)
+- [IronClaw](https://github.com/nearai/ironclaw)
 - [Open-Source AI Needs to Get Serious](https://spiralbtc.substack.com/p/open-source-ai-needs-to-get-serious?r=53cq2n&triedRedirect=true)
+- [L402](https://docs.lightning.engineering/the-lightning-network/l402)
+- [x402](https://www.x402.org/)
 - [Google CLI](https://x.com/rauchg/status/2029356560494018956?s=20)
 - [Unhuman.deals](https://unhuman.deals/)
 - [clawi.ai](https://clawi.ai/)
 - [Lobster University](https://fcf2af38.clawi.ai/lobster-university/)
 - [Cloaked Wireless](https://www.cloakedwireless.com/)
+- [Marmot Protocol in NanoClaw](https://github.com/qwibitai/nanoclaw/pull/858)
 
 # Vibe Coding
 - [Large Scale Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
