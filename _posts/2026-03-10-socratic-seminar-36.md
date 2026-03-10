@@ -46,6 +46,7 @@ Bring your laptops!
 - [Lobster University](https://fcf2af38.clawi.ai/lobster-university/)
 - [Cloaked Wireless](https://www.cloakedwireless.com/)
 - [Marmot Protocol in NanoClaw](https://github.com/qwibitai/nanoclaw/pull/858)
+- [Marmot CLI](https://github.com/marmot-protocol/whitenoise-rs/pull/537)
 
 # Vibe Coding
 - [Large Scale Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
