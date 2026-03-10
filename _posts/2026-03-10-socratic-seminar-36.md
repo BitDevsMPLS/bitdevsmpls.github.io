@@ -52,6 +52,7 @@ Bring your laptops!
 - [OpenCode](https://opencode.ai/)
 - [Claude Code](https://code.claude.com/docs/en/overview)
 - [Codex](https://openai.com/codex/)
+- [Anthropic Skilljar](https://anthropic.skilljar.com/)
 
 # Model Providers
 - [MapleAI](https://trymaple.ai/)
