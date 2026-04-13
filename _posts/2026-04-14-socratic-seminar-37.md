@@ -33,6 +33,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Quantum Safe Bitcoin Transactions without Softforks](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/)
  - [Post Quantum Bitcoin: Concepts of a Plan - A zk-STARK Escape Hatch for BIP-32 Wallets](https://x.com/roasbeef/status/2041940571720487192?s=20)
  - [SHRIMPS](https://delvingbitcoin.org/t/shrimps-2-5-kb-post-quantum-signatures-across-multiple-stateful-devices/2355)
+ - [Quantum Throughput](https://x.com/n1ckler/status/2039338319603999036?s=20)
  - [Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions](https://eprint.iacr.org/2026/380)
  - [A practical attack against limited MuSig2 Nonce Reuse](https://nkohen.github.io/blog/musig2-nonce-reuse/)
  - [Slow blocks on Signet](https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367)
