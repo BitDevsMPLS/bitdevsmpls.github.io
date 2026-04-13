@@ -6,10 +6,6 @@ title: "Socratic Seminar 37"
 
 ## Welcome
 
-LOCATION CHANGE!
-
-We are back at Improving Inc this month. They have moved locations, double check the address below.
-
 This meetup will be run in the format of a Socratic Seminar, inspired by other [BitDevs Socratic Seminars across the country](https://bitdevs.org/cities).
 
 # Details
@@ -32,4 +28,21 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 <img src="../simplex.jpeg" width="250" height="250" />
 
-# TBD
+# Bitcoin
+ - [Binohash](https://robinlinus.com/binohash.pdf)
+ - [Quantum Safe Bitcoin Transactions without Softforks](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/)
+ - [Post Quantum Bitcoin: Concepts of a Plan - A zk-STARK Escape Hatch for BIP-32 Wallets](https://x.com/roasbeef/status/2041940571720487192?s=20)
+ - [SHRIMPS](https://delvingbitcoin.org/t/shrimps-2-5-kb-post-quantum-signatures-across-multiple-stateful-devices/2355)
+ - [Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions](https://eprint.iacr.org/2026/380)
+ - [A practical attack against limited MuSig2 Nonce Reuse](https://nkohen.github.io/blog/musig2-nonce-reuse/)
+ - [Slow blocks on Signet](https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367)
+ - [How wallet fingerprints damage Payjoin privacy](https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354)
+
+# Lightning
+ - [Splicing Spec Merged](https://github.com/lightning/bolts/pull/1160)
+ - [Cake Wallet adds Lightning](https://x.com/cakewallet/status/2028531059160182943?s=20)
+
+# Misc
+ - [Free Internetworking Peering System](https://github.com/jmcorgan/fips)
+ - [GrapheneOS Partners with Motorola](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+ - [Fedimint Lightning Gateway on Start9](https://marketplace.start9.com/fedimint-gatewayd?api=community-beta-registry.start9.com&name=Community%20Beta%20Registry)
