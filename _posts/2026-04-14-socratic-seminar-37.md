@@ -29,6 +29,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 <img src="../simplex.jpeg" width="250" height="250" />
 
 # Bitcoin
+ - [Presidio Bitcoin Quantum Report](https://github.com/presidiobtc/bitcoin-quantum/blob/main/README.md)
  - [Binohash](https://robinlinus.com/binohash.pdf)
  - [Quantum Safe Bitcoin Transactions without Softforks](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions/)
  - [Post Quantum Bitcoin: Concepts of a Plan - A zk-STARK Escape Hatch for BIP-32 Wallets](https://x.com/roasbeef/status/2041940571720487192?s=20)
