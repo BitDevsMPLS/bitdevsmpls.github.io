@@ -33,12 +33,19 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 <img src="../simplex.jpeg" width="250" height="250" />
 
 # Bitcoin
+ - [Bitcoin Core v31](https://bitcoincore.org/en/releases/31.0/)
  - [How wallet fingerprints damage Payjoin privacy](https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354)
  - [Script Interpreter Remote Crash](https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/)
  - [Hornet Update](https://delvingbitcoin.org/t/hornet-update-a-declarative-executable-specification-of-consensus-rules/2420)
+ - [BIP322 Complete](https://github.com/bitcoin/bips/blob/master/bip-0322.mediawiki)
+ - [Bisq Exploit](https://x.com/bisq_network/status/2050206753246363819)
+ - [Block Proof of Reserves](https://block.xyz/proof-of-reserves)
 
 # Lightning
  - [Onion Message Jamming in the Lightning Network](https://delvingbitcoin.org/t/onion-message-jamming-in-the-lightning-network/2414)
+ - [simple taproot channels](https://github.com/lightning/bolts/pull/995)
+ - [LDK Server](https://spiral.xyz/ldkserver.pdf)
 
 # Misc
+ - [Liquid Network Roadmap](https://blog.blockstream.com/liquid-network-roadmap-0-conf-quantum-readiness-and-bitvm/)
  - [Copy Fail](https://copy.fail/)
