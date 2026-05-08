@@ -32,4 +32,13 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
 
 <img src="../simplex.jpeg" width="250" height="250" />
 
-# TBD
+# Bitcoin
+ - [How wallet fingerprints damage Payjoin privacy](https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354)
+ - [Script Interpreter Remote Crash](https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/)
+ - [Hornet Update](https://delvingbitcoin.org/t/hornet-update-a-declarative-executable-specification-of-consensus-rules/2420)
+
+# Lightning
+ - [Onion Message Jamming in the Lightning Network](https://delvingbitcoin.org/t/onion-message-jamming-in-the-lightning-network/2414)
+
+# Misc
+ - [Copy Fail](https://copy.fail/)
