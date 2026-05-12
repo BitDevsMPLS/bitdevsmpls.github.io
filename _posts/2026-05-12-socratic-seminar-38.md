@@ -36,6 +36,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Bitcoin Core v31](https://bitcoincore.org/en/releases/31.0/)
  - [How wallet fingerprints damage Payjoin privacy](https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354)
  - [Script Interpreter Remote Crash](https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/)
+ - [TCP Hole punching for Bitcoin nodes behind home NATs?](https://delvingbitcoin.org/t/tcp-hole-punching-for-bitcoin-nodes-behind-home-nats/2497/6)
  - [Hornet Update](https://delvingbitcoin.org/t/hornet-update-a-declarative-executable-specification-of-consensus-rules/2420)
  - [BIP322 Complete](https://github.com/bitcoin/bips/blob/master/bip-0322.mediawiki)
  - [Bisq Exploit](https://x.com/bisq_network/status/2050206753246363819)
