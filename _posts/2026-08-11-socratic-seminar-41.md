@@ -38,6 +38,8 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Solving Bitcoin's Self-Custody Trilemma](https://x.com/lukechilds/status/2085802947670356209)
  - [Bitcoin Red Team](https://x.com/callebtc/status/2086220411084103707)
  - [BTCPayServer Security Advisory](https://blog.btcpayserver.org/security-advisory-btcpay-server-2-4-2/)
+ - [Blotz Disabled](https://x.com/Boltzhq/status/2084311537502630319)
+ - [Blockstream Swaps](https://blog.blockstream.com/announcing-blockstream-swaps/)
  - [BIP110 Falls Flat](https://forkwatch.tv/)
 
 # Self Custody Post Mortem, Best Practices, Moving Forward. Discussion
