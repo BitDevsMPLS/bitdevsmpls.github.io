@@ -35,6 +35,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [CoinKite Technical Deep Dive](https://blog.coinkite.com/entropy-technical-backgrounder/)
  - [Galaxy Research Tracking Stolen Coins](https://x.com/glxyresearch/status/2085748513015488758)
  - [When random_bytes() runs but doesn't work](https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt?r=2jfs7&utm_campaign=post&utm_medium=web&triedRedirect=true) 
+ - [Coldcard Deep Dive](https://wizardsardine.com/blog/coldcard-vuln-deep-dive/)
  - [Solving Bitcoin's Self-Custody Trilemma](https://x.com/lukechilds/status/2085802947670356209)
  - [Bitcoin Red Team](https://x.com/callebtc/status/2086220411084103707)
  - [BTCPayServer Security Advisory](https://blog.btcpayserver.org/security-advisory-btcpay-server-2-4-2/)
