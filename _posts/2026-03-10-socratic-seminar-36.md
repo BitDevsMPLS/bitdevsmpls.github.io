@@ -47,6 +47,7 @@ Bring your laptops!
 - [Cloaked Wireless](https://www.cloakedwireless.com/)
 - [Marmot Protocol in NanoClaw](https://github.com/qwibitai/nanoclaw/pull/858)
 - [Marmot CLI](https://github.com/marmot-protocol/whitenoise-rs/pull/537)
+- [ChalkGlue](https://chalkglue.com/openclaw)
 
 # Vibe Coding
 - [Large Scale Deanonymization with LLMs](https://simonlermen.substack.com/p/large-scale-online-deanonymization)
