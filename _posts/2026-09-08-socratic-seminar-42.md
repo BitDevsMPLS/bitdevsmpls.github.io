@@ -28,5 +28,6 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Telegram](https://t.me/+KVi8KcNQ3mtmZmMx)
 
 # TBD
+
 # Misc
  - [One Token Is Enough: Fingerprinting LLMs from Completions (Bruckner 2026, arXiv:2607.10252)](https://arxiv.org/abs/2607.10252)
