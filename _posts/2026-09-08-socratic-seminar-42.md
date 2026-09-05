@@ -27,4 +27,5 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Website](https://bitdevsmpls.org)
  - [Telegram](https://t.me/+KVi8KcNQ3mtmZmMx)
 
-# TBD 
+# Model Providers
+ - [One Token Is Enough (arXiv:2607.10252)](https://arxiv.org/abs/2607.10252)
