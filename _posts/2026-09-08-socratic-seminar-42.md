@@ -27,4 +27,14 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Website](https://bitdevsmpls.org)
  - [Telegram](https://t.me/+KVi8KcNQ3mtmZmMx)
 
-# TBD 
+# InfoSec
+ - [Liquid Hacked for 4000 BTC](https://x.com/mononautical/status/2096928595432374706)
+ - [Core Lightning 26.06.7](https://blog.blockstream.com/core-lightning-26-06-7/)
+ - [Disclosure: LND doesn’t wait for enough confirmations when closing channels](https://delvingbitcoin.org/t/disclosure-lnd-doesnt-wait-for-enough-confirmations-when-closing-channels/2800)
+ - [Disclosure: Crashing CLN with a flood of pings](https://delvingbitcoin.org/t/disclosure-crashing-cln-with-a-flood-of-pings/2846)
+ - [Generate truly random seed words using only dice or playing cards](https://delvingbitcoin.org/t/generate-truly-random-seed-words-using-only-dice-or-playing-cards/2814)
+
+# Research
+ - [Enabling Threshold Custody for the Lightning Network with Nested Threshold Multi-Signatures](https://eprint.iacr.org/2026/1757)
+ - [Bitcoin Mempool Linearization](https://arxiv.org/pdf/2607.23787)
+ - [PQC output type discussion](https://delvingbitcoin.org/t/pqc-output-type-discussion/2749)
