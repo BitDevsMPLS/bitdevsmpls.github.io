@@ -27,4 +27,15 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Website](https://bitdevsmpls.org)
  - [Telegram](https://t.me/+KVi8KcNQ3mtmZmMx)
 
-# TBD 
+# Bitcoin
+ - [High Severity Block Template CVE](https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/)
+ - [High Severity Electrum RBF Attack](https://github.com/advisories/GHSA-6jp4-8v48-cc5v)
+ - [Red Teaming Repositories](https://x.com/otaliptus/status/2117658931732340818)
+ - [rbitcoin](https://rbitcoin.org/)
+ - [Testnet5](https://groups.google.com/g/bitcoindev/c/DmFiHeo-xRw/m/YI3cpl5vAQAJ?pli=1)
+ - [Anti-exfil](https://groups.google.com/g/bitcoindev/c/cB37_jChkEI/m/3paRGQ_IBgAJ)
+
+# Misc
+ - [LayerTree](https://layertree.tech/)
+ - [Shielded Bitcoin](https://www.allocinit.xyz/uploads/shielded-bitcoin.pdf)
+ - [ROAST in Fedimint](https://claude.ai/artifact/44Me9uxtc33CPWoxPvm1K2#s1)
