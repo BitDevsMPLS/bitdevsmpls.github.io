@@ -34,6 +34,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [rbitcoin](https://rbitcoin.org/)
  - [Testnet5](https://groups.google.com/g/bitcoindev/c/DmFiHeo-xRw/m/YI3cpl5vAQAJ?pli=1)
  - [Anti-exfil](https://groups.google.com/g/bitcoindev/c/cB37_jChkEI/m/3paRGQ_IBgAJ)
+ - [Bitcoin Transaction Builder](https://github.com/yancyribbens/rust-bitcoin-transaction-builder)
 
 # Misc
  - [LayerTree](https://layertree.tech/)
