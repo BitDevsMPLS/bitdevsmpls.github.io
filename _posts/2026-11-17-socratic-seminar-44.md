@@ -34,6 +34,10 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [rbitcoin](https://rbitcoin.org/)
  - [Testnet5](https://groups.google.com/g/bitcoindev/c/DmFiHeo-xRw/m/YI3cpl5vAQAJ?pli=1)
  - [Anti-exfil](https://groups.google.com/g/bitcoindev/c/cB37_jChkEI/m/3paRGQ_IBgAJ)
+ - [Bull Bitcoin enables Payjoin by default for on-chain trades](https://www.bullbitcoin.com/blog/payjoin-trading)
+ - [Should more home Bitcoin nodes accept inbound connections?](https://delvingbitcoin.org/t/tcp-hole-punching-for-bitcoin-nodes-behind-home-nats/2497/18)
+ - [LND adds experimental BOLT12 offer and invoice-request support](https://github.com/lightningnetwork/lnd/pull/11374)
+ - [Why did compact-block relay slow down this fall? (follow-up)](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/63)
 
 # Misc
  - [LayerTree](https://layertree.tech/)
