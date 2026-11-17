@@ -39,6 +39,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Should more home Bitcoin nodes accept inbound connections?](https://delvingbitcoin.org/t/tcp-hole-punching-for-bitcoin-nodes-behind-home-nats/2497/18)
  - [LND adds experimental BOLT12 offer and invoice-request support](https://github.com/lightningnetwork/lnd/pull/11374)
  - [Why did compact-block relay slow down this fall? (follow-up)](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/63)
+ - [Ledger Implant](https://www.ledger.com/blog-response-hardware-implant-attack)
 
 # Misc
  - [LayerTree](https://layertree.tech/)
