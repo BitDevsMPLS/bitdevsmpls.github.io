@@ -28,6 +28,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Telegram](https://t.me/+KVi8KcNQ3mtmZmMx)
 
 # Bitcoin
+ - [LNbits 1.7.0 security update and upgrade guidance](https://news.lnbits.com/news/lnbits-1-7-0-security-update)
  - [High Severity Block Template CVE](https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/)
  - [High Severity Electrum RBF Attack](https://github.com/advisories/GHSA-6jp4-8v48-cc5v)
  - [Red Teaming Repositories](https://x.com/otaliptus/status/2117658931732340818)
