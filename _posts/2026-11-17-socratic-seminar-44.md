@@ -28,6 +28,7 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Telegram](https://t.me/+KVi8KcNQ3mtmZmMx)
 
 # Bitcoin
+ - [LNbits 1.7.0 security update and upgrade guidance](https://news.lnbits.com/news/lnbits-1-7-0-security-update)
  - [High Severity Block Template CVE](https://bitcoincore.org/en/2026/11/10/disclose-cve-2025-62861/)
  - [High Severity Electrum RBF Attack](https://github.com/advisories/GHSA-6jp4-8v48-cc5v)
  - [Red Teaming Repositories](https://x.com/otaliptus/status/2117658931732340818)
@@ -35,6 +36,11 @@ This meetup will be run in the format of a Socratic Seminar, inspired by other [
  - [Testnet5](https://groups.google.com/g/bitcoindev/c/DmFiHeo-xRw/m/YI3cpl5vAQAJ?pli=1)
  - [Anti-exfil](https://groups.google.com/g/bitcoindev/c/cB37_jChkEI/m/3paRGQ_IBgAJ)
  - [Bitcoin Transaction Builder](https://github.com/yancyribbens/rust-bitcoin-transaction-builder)
+ - [Bull Bitcoin enables Payjoin by default for on-chain trades](https://www.bullbitcoin.com/blog/payjoin-trading)
+ - [Should more home Bitcoin nodes accept inbound connections?](https://delvingbitcoin.org/t/tcp-hole-punching-for-bitcoin-nodes-behind-home-nats/2497/18)
+ - [LND adds experimental BOLT12 offer and invoice-request support](https://github.com/lightningnetwork/lnd/pull/11374)
+ - [Why did compact-block relay slow down this fall? (follow-up)](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/63)
+ - [Ledger Implant](https://www.ledger.com/blog-response-hardware-implant-attack)
 
 # Misc
  - [LayerTree](https://layertree.tech/)
